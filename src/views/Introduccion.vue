@@ -1,0 +1,31 @@
+<template lang="pug">
+.curso-main-container.introduccion
+  BannerInterno
+  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
+  
+    .titulo-principal.color-acento-contenido
+      .titulo-principal__numero        
+        span
+          i.fas.fa-info
+      h1 Introducción
+
+    h3.mb-5 ¿Sabes sobre la importancia de conocer sobre la cultura indígena, su cosmovisión, la comprensión de su cultura, la concepción de salud y enfermedad?
+    
+    p.mb-5 En el siguiente recurso introductorio de este componente podrás reconocer algunos aspectos centrales de los pueblos indígenas, donde habitan y cómo se genera el acceso e inequidad, incluso algunas condiciones indignas y con flagrantes violaciones a sus derechos humanos más fundamentales:
+
+    figure
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+   
+</template>
+
+<script>
+export default {
+  name: 'Introduccion',
+  data: () => ({
+    // variables de vue
+  }),
+}
+</script>
+
+<style lang="sass"></style>
