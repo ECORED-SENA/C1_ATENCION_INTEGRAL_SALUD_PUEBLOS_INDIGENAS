@@ -7,63 +7,64 @@
         span 2
       h1 Marco normativo y políticas de derecho nacional
     
-    .cajon-b.color-primario.p-3.mb-5
-      p.mb-0 El marco normativo y las políticas de los pueblos indígenas son específicas y corresponden a años de trabajo para que se haya logrado el reconocimiento de sus derechos. De manera inicial se tiene el estado del arte de los derechos de los pueblos indígenas, en el que, se ha presentado un conflicto constante entre el reconocimiento de los derechos de los pueblos indígenas en todos los países y su concreción y el disfrute de estos derechos por parte de las comunidades indígenas; así mismo la restitución de los derechos, el diálogo intercultural y el enfoque de derechos para el actuar de las instituciones de la salud y del talento humano, de los equipos de salud exige en el actuar y la interrelación un profundo respeto por la cultura, los conocimientos y las tradiciones de los pueblos indígenas, lo que se ha dado a través de los derechos internacionales humanitario. 
+    .tema-2
+      .cajon-b.color-primario.p-3.mb-5
+        p.mb-0 El marco normativo y las políticas de los pueblos indígenas son específicas y corresponden a años de trabajo para que se haya logrado el reconocimiento de sus derechos. De manera inicial se tiene el estado del arte de los derechos de los pueblos indígenas, en el que, se ha presentado un conflicto constante entre el reconocimiento de los derechos de los pueblos indígenas en todos los países y su concreción y el disfrute de estos derechos por parte de las comunidades indígenas; así mismo la restitución de los derechos, el diálogo intercultural y el enfoque de derechos para el actuar de las instituciones de la salud y del talento humano, de los equipos de salud exige en el actuar y la interrelación un profundo respeto por la cultura, los conocimientos y las tradiciones de los pueblos indígenas, lo que se ha dado a través de los derechos internacionales humanitario. 
     
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-5
         figure.mb-0
           img(src="@/assets/curso/tema2/img01.svg")  
       .col-lg-7
-        .cajon-b.color-secundario.p-3.mb-5
-          p.mb-0 El marco internacional y nacional, permite reconocer los derechos de los pueblos indígenas, ya que se consideran fundamentales para la respuesta a años de lucha; reconocer el marco nacional e internacional de los derechos de los pueblos indígenas, es fundamental; por ello, a continuación, se presenta un resumen y análisis del marco de los derechos de los pueblos indígenas a nivel nacional e internacional, considerando las principales normas establecidas por la ONU, la OIT, la OACNUDH y a nivel nacional desde la constitución política colombiana, la Presidencia de la República, el Ministerio del Interior y el Ministerio de Salud.
+        .tema-2
+          .cajon-b.color-secundario.p-3.mb-5
+            p.mb-0 El marco internacional y nacional, permite reconocer los derechos de los pueblos indígenas, ya que se consideran fundamentales para la respuesta a años de lucha; reconocer el marco nacional e internacional de los derechos de los pueblos indígenas, es fundamental; por ello, a continuación, se presenta un resumen y análisis del marco de los derechos de los pueblos indígenas a nivel nacional e internacional, considerando las principales normas establecidas por la ONU, la OIT, la OACNUDH y a nivel nacional desde la constitución política colombiana, la Presidencia de la República, el Ministerio del Interior y el Ministerio de Salud.
     Separador
 
     #t2_1.titulo-segundo.color-acento-contenido
       h2 2.1 Marco internacional
     p.mb-5 El convenio internacional sobre poblaciones indígenas y tribales reconoció, entre otros, el derecho de propiedad, colectivo o individual, a favor de los miembros de los pueblos indígenas sobre las tierras tradicionalmente ocupadas por ellas (Organización Internacional del Trabajo, 1957) Lo anterior implica el cuidado del territorio que ocupan los pueblos indígenas, el cuidado de su medio ambiente, de sus fuentes de agua y alimentación, cuidando de no contaminar sus recursos y establecer medidas de control en sus fronteras y con la población colindante. A continuación, se podrá conocer este marco normativo:
-    div.p-5(style="background-color: #FFF7F5")
+    div.py-5(style="background-color: #FFF7F5")
       .tema-2
         LineaTiempoE.color-acento-contenido
-          .row(titulo="Artículo 27" subtitulo="del pacto internacional de derechos civiles y políticos ")
-            .col-lg-12
+          .row.align-items-center(titulo="Artículo 27 del pacto internacional de derechos civiles y políticos" subtitulo="")
+            .col-lg-6
               p Establece que en los Estados en que existan minorías étnicas, religiosas o lingüísticas, se le respetará sus derechos a cada uno de sus miembros y esto es, a tener su propia vida cultural, a profesar y practicar su religión, empleando su idioma. Esto requiere de parte de los Estados, instituciones y organizaciones respeto por las tradiciones, formas propias de organización, espacios de concertación y autogobierno, su autodeterminación, su territorio y su patrimonio cultural. Lo que involucra la materialización de derechos, a partir de la eliminación y mitigación de las barreras de acceso que se centran en la economía, geografía, lo social y cultural, además, en el acceso a los bienes y servicios, a los cuales tienen derechos, como a la salud, el trabajo digno, la seguridad alimentaria, su territorio, disminuyendo de manera progresiva las inequidades, fomentando el etnodesarrollo en un profundo respeto por su autogobierno y su autodeterminación.            
-          .row(titulo="Convenio 169" subtitulo="de la Organización Internacional del Trabajo (C-169 OIT)")
-            .col-lg-12
-              .row.align-items-center.justify-content-center.mb-5
-                .col-lg-6
-                  figure.mb-0
-                    img(src="@/assets/curso/tema2/img03.png")  
-              p Establece que en los Estados en que existan minorías étnicas, religiosas o lingüísticas, se le respetará sus derechos a cada uno de sus miembros y esto es, a tener su propia vida cultural, a profesar y practicar su religión, empleando su idioma. Esto requiere de parte de los Estados, instituciones y organizaciones respeto por las tradiciones, formas propias de organización, espacios de concertación y autogobierno, su autodeterminación, su territorio y su patrimonio cultural. Lo que involucra la materialización de derechos, a partir de la eliminación y mitigación de las barreras de acceso que se centran en la economía, geografía, lo social y cultural, además, en el acceso a los bienes y servicios, a los cuales tienen derechos, como a la salud, el trabajo digno, la seguridad alimentaria, su territorio, disminuyendo de manera progresiva las inequidades, fomentando el etnodesarrollo en un profundo respeto por su autogobierno y su autodeterminación.            
+            .col-lg-6
+              figure.mb-0
+                img(src="@/assets/curso/tema2/img03.png")  
+          .row(titulo="Convenio 169 de la Organización Internacional del Trabajo (C-169 OIT)" subtitulo="")                              
+            .col-lg-6
+              p Se reconoce a partir de las aspiraciones de los pueblos indígenas y tribales para que asuman el control de sus instituciones, formas de vida y del desarrollo económico, para lograr mantener y fortalecer su identidad, lengua y religión, dentro del marco de los Estados en que viven. Es así, como la OIT estable el siguiente marco normativo de derechos: 
     
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-12.px-5
-        div.p-5(style="background-color: #F1F2EC") 
-          ul.lista-ul--color
-            li 
-              i.fas.fa-check
-              | Promoción de derechos sociales, económicos y culturales, donde se respete la identidad social y cultural, las costumbres y tradiciones, además de su institucionalidad.
-            li 
-              i.fas.fa-check
-              | Reconocimiento y protección de valores y prácticas sociales, culturales, religiosas y espirituales.
-            li 
-              i.fas.fa-check
-              | Consulta sobre las medidas legislativas o administrativas que puedan afectarles; a través de instituciones representativas. 
-            li 
-              i.fas.fa-check
-              | Derecho para la toma de decisiones sobre las prioridades, conservación de costumbres e instituciones que permiten controlar su desarrollo económico, social y cultural.
-            li 
-              i.fas.fa-check
-              | Protección y preservación del territorio en el que habitan partir del cuidado del medio ambiente. 
-            li 
-              i.fas.fa-check
-              | Organización de los derechos a la salud, los cuales deben ser planeados y administrados en cooperación con los pueblos interesados, teniendo en cuenta sus condiciones económicas, geográficas, sociales y culturales, así como sus métodos de prevención, prácticas curativas y medicamentos tradicionales.
-            li 
-              i.fas.fa-check
-              | Protección eficaz para la contratación y condiciones de empleo dignos.
-            li 
-              i.fas.fa-check
-              | Cooperación para el desarrollo de programas y servicios de educación para responder a las necesidades particulares, que abarquen su historia, conocimientos y técnicas, su sistema de valores y las demás aspiraciones sociales, económicas y culturales.
+        div.p-5(style="background-color: #F1F2EC")           
+            ul.lista-ul--color
+              li                 
+                i.fas.fa-check
+                | Promoción de derechos sociales, económicos y culturales, donde se respete la identidad social y cultural, las costumbres y tradiciones, además de su institucionalidad.
+              li 
+                i.fas.fa-check
+                | Reconocimiento y protección de valores y prácticas sociales, culturales, religiosas y espirituales.
+              li 
+                i.fas.fa-check
+                | Consulta sobre las medidas legislativas o administrativas que puedan afectarles; a través de instituciones representativas. 
+              li 
+                i.fas.fa-check
+                | Derecho para la toma de decisiones sobre las prioridades, conservación de costumbres e instituciones que permiten controlar su desarrollo económico, social y cultural.
+              li 
+                i.fas.fa-check
+                | Protección y preservación del territorio en el que habitan partir del cuidado del medio ambiente. 
+              li 
+                i.fas.fa-check
+                | Organización de los derechos a la salud, los cuales deben ser planeados y administrados en cooperación con los pueblos interesados, teniendo en cuenta sus condiciones económicas, geográficas, sociales y culturales, así como sus métodos de prevención, prácticas curativas y medicamentos tradicionales.
+              li 
+                i.fas.fa-check
+                | Protección eficaz para la contratación y condiciones de empleo dignos.
+              li 
+                i.fas.fa-check
+                | Cooperación para el desarrollo de programas y servicios de educación para responder a las necesidades particulares, que abarquen su historia, conocimientos y técnicas, su sistema de valores y las demás aspiraciones sociales, económicas y culturales.
 
     p.mb-5 <b>La declaración de las Naciones Unidas sobre los derechos de pueblos indígenas establece, entre otros, los siguientes derechos (Organización de las Naciones Unidas - ONU, 2007):</b>
 
@@ -102,7 +103,7 @@
       h2 2.2 Marco de política y de derecho nacional
 
     p.mb-5 Colombia ratificó la Convención 169 de 1989 de la OIT sobre Pueblos Indígenas y Tribales mediante la Ley 21 de 1991, según la jurisprudencia permanente de la Corte Constitucional, las disposiciones constitucionales y las regulaciones de la convención 169 de la OIT forman un bloque de constitucionalidad (Semper, 2006) Así mismo, los relacionados en la Constitución Política de Colombia (CP) que son: 
-    .tema-2 
+    .tema-2.div-LineaTiempoB 
       LineaTiempoB.color-secundario.mb-5(:datos="datosLineaTiempo_1")
     p.mb-5 <b>El derecho a la salud de los pueblos indígenas se reglamenta de manera esencial en dos leyes:</b> 
     
@@ -370,7 +371,7 @@
     p.mb-4 El Decreto 2164 de 1995 determina que la explotación de los recursos naturales en los territorios indígenas se hará sin desmedro de la integridad cultural, social y económica de las comunidades indígenas. En las decisiones que se adopten respecto de dicha explotación, el Gobierno propiciará la participación de los representantes de las respectivas comunidades, en este sentido, la corte constitucional establece en la Sentencia C_891 de 2002, que la consulta previa es un derecho colectivo de los pueblos indígenas y otros grupos étnicos del país, “en cuanto derecho fundamental, individual y colectivo, de los grupos étnicos constituye un instrumento básico para preservar la integridad étnica, social y cultural de las comunidades y asegurar su subsistencia como grupo social” (Departamento Nacional de Planeación, 2010)
     p.mb-5 <b>Además, el Decreto 4633 de 2011 establece: </b>
 
-    .tema-2 
+    .tema-2.div-LineaTiempoB 
       LineaTiempoB.color-secundario.mb-5(:datos="datosLineaTiempo_2")
 
     Separador

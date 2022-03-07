@@ -11,8 +11,9 @@
 
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-6
-        .cajon-b.color-primario.p-3.mb-5
-          p.mb-0 En el marco conceptual se desarrollan conceptos y definiciones desde la perspectiva de los pueblos indígenas y las definiciones que se han elaborado en los documentos de consenso y de políticas. Con el término de pueblos indígenas, particularmente en las Américas, se da una denominación muy genérica, teniendo en cuenta la gran diversidad de culturas y lenguas indígenas que hay en los países de la región, el reconocimiento a sus derechos se ha dado como resultado de sus luchas de resistencia a la historia de opresión y exclusión a que han sido sometidos desde las épocas de la conquista. 
+        .tema-2
+          .cajon-b.color-primario.p-3.mb-5
+            p.mb-0 En el marco conceptual se desarrollan conceptos y definiciones desde la perspectiva de los pueblos indígenas y las definiciones que se han elaborado en los documentos de consenso y de políticas. Con el término de pueblos indígenas, particularmente en las Américas, se da una denominación muy genérica, teniendo en cuenta la gran diversidad de culturas y lenguas indígenas que hay en los países de la región, el reconocimiento a sus derechos se ha dado como resultado de sus luchas de resistencia a la historia de opresión y exclusión a que han sido sometidos desde las épocas de la conquista. 
       .col-lg-6
         figure.mb-0
           img(src="@/assets/curso/tema1/img01.svg")  
@@ -22,10 +23,11 @@
         figure.mb-0
           img(src="@/assets/curso/tema1/img02.svg")  
       .col-lg-7
-        .cajon-b.color-secundario.p-3.mb-5
-          p.mb-4 Los derechos de los pueblos indígenas, en el marco de los derechos humanos, se han dado de manera progresiva desde las organizaciones internacionales y se han ido reconociendo en los distintos países, hasta estar establecido y definido en la constitución política de Colombia y el marco normativo vigente en la materia. La excusión y la opresión política y cultural a la que se han sometidos los pueblos indígenas continúa en nuestro país en medio de las tensiones que se generan entre los estados nación y la búsqueda de la autonomía y la libre determinación de estas comunidades, más aún agravadas en nuestro país por el conflicto interno, la desigualdad y las inequidades. La exclusión no solamente se da en el marco político, ideológico y de derechos, existen aún muchos prejuicios y segregación de tipo cultural y social, se requiere un enfoque intercultural incluyente y respeto a la autonomía, tradiciones y cosmovisión de las comunidades indígenas.
-          p.mb-0 <b>De acuerdo con el contexto anterior, a continuación, podrá conocer el marco conceptual desde la perspectiva de los pueblos indígenas a partir de tres subcategorías:</b>
-      
+        .tema-2
+          .cajon-b.color-secundario.p-3.mb-5
+            p.mb-4 Los derechos de los pueblos indígenas, en el marco de los derechos humanos, se han dado de manera progresiva desde las organizaciones internacionales y se han ido reconociendo en los distintos países, hasta estar establecido y definido en la constitución política de Colombia y el marco normativo vigente en la materia. La excusión y la opresión política y cultural a la que se han sometidos los pueblos indígenas continúa en nuestro país en medio de las tensiones que se generan entre los estados nación y la búsqueda de la autonomía y la libre determinación de estas comunidades, más aún agravadas en nuestro país por el conflicto interno, la desigualdad y las inequidades. La exclusión no solamente se da en el marco político, ideológico y de derechos, existen aún muchos prejuicios y segregación de tipo cultural y social, se requiere un enfoque intercultural incluyente y respeto a la autonomía, tradiciones y cosmovisión de las comunidades indígenas.
+            p.mb-0 <b>De acuerdo con el contexto anterior, a continuación, podrá conocer el marco conceptual desde la perspectiva de los pueblos indígenas a partir de tres subcategorías:</b>
+        
     div.p-5.mb-5(style="background-color: #F5F3E2")
       h3.mb-4 Subcategoría de la cultura:
       p.mb-5 puede ser definida como un patrón de creencias, pensamientos, valores, prácticas, comunicaciones, comportamientos, cosmovisión e instituciones (familia, instituciones religiosas, económicas y políticas) que son características y sirven para preservar a un grupo social dado. (Organización Panamericana de la Salud, 1997). <b>En el siguiente recurso podrá ahondar sobre este contexto:</b> 
@@ -83,7 +85,7 @@
                   img(src="@/assets/curso/tema1/img06.png")  
           .tarjeta.color-acento-contenido.p-5(titulo="Territorio y salud: ")
             h4 Territorio y salud: 
-            p.mb-4 El planeta tierra es la Madre (Sikuanis, Uwas, Sáliba,Cuiva, Masiware,, wipiwe, Yamaleros, Chiripos, Amoruas…), es Madre Tierra. El territorio es visto como un libro sagrado donde están escritas las leyes de la vida; cada monte o especie que se destruye es como una página que se arranca del libro, es un mensaje de los dioses que se olvida. (Organización Regional Indígena del Casanare - ORIC, 2006)            
+            p.mb-4 El planeta tierra es la Madre (<i>Sikuanis, Uwas, Sáliba,Cuiva, Masiware,, wipiwe, Yamaleros, Chiripos, Amoruas</i>…), es Madre Tierra. El territorio es visto como un libro sagrado donde están escritas las leyes de la vida; cada monte o especie que se destruye es como una página que se arranca del libro, es un mensaje de los dioses que se olvida. (Organización Regional Indígena del Casanare - ORIC, 2006)            
           .tarjeta.color-acento-contenido.p-5(titulo="Familia:")
             h4 Familia:
             p.mb-4 Familia extensiva que involucra todo el clan, en donde familia son todos los del resguardo: abuelos, bisabuelos, nietos, cuñados, yernos, nueras, hermanos, hijas, que cumplen al interior de la comunidad unas normas socioculturales en cada ciclo vital, es decir que cuando se pasa de un ciclo a otro, por ejemplo, de niña a mujer, la persona es sometida a unas pruebas o rituales especiales de preparación que disponen la persona para confrontar el nuevo ciclo de vida. Dentro de un proyecto de vida que Integra al Individuo con el territorio y la espiritualidad. Es el conjunto de personas ascendientes, descendientes, colaterales y afines de un resguardo o clan que cumple al interior unas normas socioculturales.
