@@ -3,7 +3,7 @@ export default {
     componenteFormativo: 'Contexto general de pueblos indígenas',
     descripcionCurso:
       'Se presenta el marco jurídico y de política nacional e internacional, reconociendo los derechos de los pueblos indígenas, su territorio, cultura, tradiciones y autodeterminación; así mismo, los conceptos básicos para la comprensión de su cultura, la concepción de la salud y enfermedad en la cosmovisión indígena que permite establecer el diálogo de saberes entre médicos tradicionales y comunidades indígenas.',
-    imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
+    imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.svg'),
   },
   menuPrincipal: {

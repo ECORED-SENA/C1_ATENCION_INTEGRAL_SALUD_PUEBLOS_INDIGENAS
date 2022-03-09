@@ -29,7 +29,9 @@
             p.mb-0 <b>De acuerdo con el contexto anterior, a continuación, podrá conocer el marco conceptual desde la perspectiva de los pueblos indígenas a partir de tres subcategorías:</b>
         
     div.p-5.mb-5(style="background-color: #F5F3E2")
-      h3.mb-4 Subcategoría de la cultura:
+      .texto-adorno.bg--2.px-5.py-3.mb-5
+        h4.mb-0.me-5 Subcategoría de la cultura:
+      
       p.mb-5 puede ser definida como un patrón de creencias, pensamientos, valores, prácticas, comunicaciones, comportamientos, cosmovisión e instituciones (familia, instituciones religiosas, económicas y políticas) que son características y sirven para preservar a un grupo social dado. (Organización Panamericana de la Salud, 1997). <b>En el siguiente recurso podrá ahondar sobre este contexto:</b> 
       .tema-1
         TabsA.color-acento-botones.mb-5    
@@ -62,7 +64,8 @@
     
     div.p-5.mb-5(style="background-color: #FFF2EF")
       p.mb-4 Según (Cevallos y Amores, 2009): 
-      h3 Subcategoría de cosmovisión: 
+      .texto-adorno.bg--2.px-5.py-3.mb-5
+        h4.mb-0.me-5 Subcategoría de cosmovisión: 
       p.mb-5 la cual se supone como un conjunto de elementos que determinan la forma que las diferentes culturas tienden de concebir el mundo y su lugar en él. Para el caso de los pueblos indígenas, define las relaciones del individuo con los otros individuos, del individuo con la sociedad, con la naturaleza, con los seres espirituales y se basa en el equilibrio, la armonía y la integralidad. 
     
       h3 Cosmovisión indígena
@@ -117,40 +120,67 @@
                   img(src="@/assets/curso/tema1/img10.png")  
     
     div.p-5.mb-5(style="background-color: #EFEFEF")
-      h3 Subcategoría Relacional: 
+      .texto-adorno.bg--2.px-5.py-3.mb-5
+        h4.mb-0.me-5 Subcategoría Relacional: 
       p.mb-5 La última subcategoría que permite conocer la cosmovisión indígena es la relacional, la cual se centra en integrar las diferenciaciones de los pueblos indígenas en su integración con la sociedad en general. Para ello, en el siguiente recurso se encontrarán diferentes definiciones:
-      .tema-1
-        TabsA.color-acento-botones.mb-5   
-          .tarjeta.color-acento-contenido.p-5(titulo="Enfoque de derechos y<br>garantías:")
-            h4 Enfoque de derechos y garantías
-            p.mb-4  En el marco de los derechos humanos y los derechos de los pueblos indígenas, establecidos en los tratados internacionales, la Constitución Política Colombiana, como derechos irrenunciables, inherentes a la persona y a los pueblos,  se  promueve el respeto al patrimonio y a diversidad cultural y se garantiza el derecho al territorio, a la autonomía, a la autodeterminación, al autogobierno, a la consulta previa y a las organizaciones propias y a las formas de organización y autoridades indígenas, fomentando la materialización y el goce de los derechos Económicos, Sociales, Económicos, Políticos y Culturales establecidos con reconocimiento de los pueblos indígenas como sujeto colectivo de derechos.
-          .tarjeta.color-acento-contenido.p-5(titulo="Enfoque diferencial:")
-            h4 Enfoque diferencial
-            p.mb-4  Implica el desarrollo de políticas, programas, proyectos, estrategias e intervenciones, en articulación y armonización con la diversidad y con las particularidades territoriales, sociales y culturales de los pueblos indígenas, reconociendo su cosmovisión, sus organizaciones propias, respetando sus prácticas ancestrales, las autoridades indígenas y la medicina tradicional.
-          .tarjeta.color-acento-contenido.p-5(titulo="Enfoque participativo:")
-            h4 Enfoque participativo
-            p.mb-4  Comprende la consulta previa cuando aplique, la concertación, la inclusión y el fomento de la participación de las organizaciones y autoridades indígenas en la planeación, implementación, monitoreo, evaluación y mejoramiento de las normas, los programas, los proyectos que les afecten, en el marco de sus escenarios propios de organización, formas y espacios de concertación para las tomas de decisión, fomentando los escenario y mecanismos de participación, el diálogo colaborativo e intercultural.
-          .tarjeta.color-acento-contenido.p-5(titulo="Autonomía (étnica):")
-            h4 Autonomía (étnica)
-            p.mb-4  Es la decisión que los pueblos indígenas toman de proyectar su futuro libremente, en un documento plan de Vida e incluye el gobierno propio, que contiene las formas de gobernar, las autoridades tradicionales, la jurisdicción indígena, los sistemas de organización social y política según la libre determinación de los pueblos indígenas, los problemas situaciones y proyecciones y se articula con elementos de la identidad cultural.
-          .tarjeta.color-acento-contenido.p-5(titulo="Acción sin daño:")
-            h4 Acción sin daño
-            p.mb-4  Hace referencia a evitar el daño, directo o indirecto, a la integridad cultural, el ambiente, el territorio, como lo plantea el artículo 44 de la ley 4633 de 2011. El enfoque de acción sin daño plantea la importancia de fortalecer las capacidades que tienen todas las sociedades para construir una convivencia armónica y para gestionar las tensiones y las diferencias sin la mediación de la violencia. En la mayoría de las sociedades —incluso en aquellas inmersas en conflictos armados—, las personas tienden a buscar la resolución pacífica de sus conflictos cotidianos, lo que pone de manifiesto que, pese a la guerra, hay elementos que conectan a los miembros de la comunidad, incluso a aquellos que están en orillas opuestas.
-          .tarjeta.color-acento-contenido.p-5(titulo="La interculturalidad:")
-            h4 La interculturalidad
-            p.mb-4  Se refiere al diálogo colaborativo, complementario incluyente, igualitario y equitativo con las diversas culturas y visiones del mundo y de la naturaleza, es el respeto mutuo que incluye diálogo de saberes, participación y concertación respetando los modos de ser, de sentir, de hacer y de relacionarnos y comunicarnos entre las diversas culturas. Es la búsqueda de una interacción de suma positiva comprendiéndonos e incluyéndose desde la diversidad  y con respeto al entorno y al territorio.
-          .tarjeta.color-acento-contenido.p-5(titulo="Etnicidad:")
-            h4 Etnicidad
-            p.mb-4  Es el reconocimiento, respeto y garantía de los derechos individuales y colectivos de todos los grupos étnicos existentes en el país, generando en la igualdad de oportunidades desde la diferencia, la diversidad y la no discriminación. Con esto, afirma el DNP, se busca incidir en las políticas públicas y promover una cultura de reconocimiento, respeto e igualdad en el ejercicio de los derechos para todos los grupos que integran la nación pluriétnica y multicultural, y así dimensionar los alcances de su inclusión en la agenda pública y la incidencia en sus procesos comunitarios organizativos (Dirección Nacional de Planeación, 2012).
-          .tarjeta.color-acento-contenido.p-5(titulo="Etnodesarrollo:")
-            h4 Etnodesarrollo
-            p.mb-4  Busca la reivindicación de los pueblos, de su historia, de su patrimonio cultural y propende, en el marco de su autodeterminación por la construcción de su futuro, el desarrollo de su cultura, de sus instituciones, su desarrollo social, mejorando su capacidad para el desarrollo de sus potencialidades, conforme a los aprendizajes y a su historia. Se entiende como el ejercicio de la capacidad social de un pueblo para construir su futuro, aprovechando para ello las enseñanzas de su experiencia histórica y los recursos reales y potenciales de su cultura.          
-          .tarjeta.color-acento-contenido.p-5(titulo="El indigenismo:")
-            h4 El indigenismo
-            p.mb-4  Tiene varias interpretaciones, con un significado polisémico, en un sentido el indigenismo es una corriente de pensamiento que tiene como objeto el estudio de las culturas indígenas en el continente americano, otros teóricos lo proponen como una crítica a la historia de racismo, segregación y exclusión social  a la que han sido sometidos los pueblos originarios, poniendo en riesgo su pervivencia y supervivencia, en especial la de los pueblos indígenas en las Américas, en este sentido se busca una reivindicación de la historia la cultura y los conocimientos ancestrales de estos pueblos.
-          .tarjeta.color-acento-contenido.p-5(titulo="Pervivencia y supervivencia: ")
-            h4 Pervivencia y supervivencia
-            p.mb-4  La pervivencia tiene que ver con ser indígena con identidad de un determinado pueblo en su territorio, tiene que ver con el sentido del ser indígena como la diferenciación con el otro. Así mismo, la supervivencia cultura, hace referencia a las condiciones de vida digna, libres y autónomas, en relación con los demás seres de la naturaleza y otras culturas, sociedades y personas “seguir existiendo y vivir con sus formas de vida diferente con dignidad”
+      .row.align-items-end.mb-5
+        .col-lg-6
+          .tema-1-tiempo1
+            LineaTiempoD.color-acento-contenido.mb-5   
+              .row.px-0.py-3(numero="1" titulo="Enfoque de derechos y garantías:")                
+                .col-lg-12.fondo-linea1
+                  div.px-3.py-2
+                    p.mb-4  En el marco de los derechos humanos y los derechos de los pueblos indígenas, establecidos en los tratados internacionales, la Constitución Política Colombiana, como derechos irrenunciables, inherentes a la persona y a los pueblos,  se  promueve el respeto al patrimonio y a diversidad cultural y se garantiza el derecho al territorio, a la autonomía, a la autodeterminación, al autogobierno, a la consulta previa y a las organizaciones propias y a las formas de organización y autoridades indígenas, fomentando la materialización y el goce de los derechos Económicos, Sociales, Económicos, Políticos y Culturales establecidos con reconocimiento de los pueblos indígenas como sujeto colectivo de derechos.
+
+              .row.px-0.py-3(numero="2" titulo="Enfoque diferencial:")                
+                .col-lg-12.fondo-linea1
+                  div.px-3.py-2
+                    p.mb-4  Implica el desarrollo de políticas, programas, proyectos, estrategias e intervenciones, en articulación y armonización con la diversidad y con las particularidades territoriales, sociales y culturales de los pueblos indígenas, reconociendo su cosmovisión, sus organizaciones propias, respetando sus prácticas ancestrales, las autoridades indígenas y la medicina tradicional.
+              
+              .row.px-0.py-3(numero="3" titulo="Enfoque participativo:")                
+                .col-lg-12.fondo-linea1
+                  div.px-3.py-2 Comprende la consulta previa cuando aplique, la concertación, la inclusión y el fomento de la participación de las organizaciones y autoridades indígenas en la planeación, implementación, monitoreo, evaluación y mejoramiento de las normas, los programas, los proyectos que les afecten, en el marco de sus escenarios propios de organización, formas y espacios de concertación para las tomas de decisión, fomentando los escenario y mecanismos de participación, el diálogo colaborativo e intercultural.
+
+              .row.px-0.py-3(numero="4" titulo="Autonomía (étnica):")                
+                .col-lg-12.fondo-linea1
+                  div.px-3.py-2 Es la decisión que los pueblos indígenas toman de proyectar su futuro libremente, en un documento plan de Vida e incluye el gobierno propio, que contiene las formas de gobernar, las autoridades tradicionales, la jurisdicción indígena, los sistemas de organización social y política según la libre determinación de los pueblos indígenas, los problemas situaciones y proyecciones y se articula con elementos de la identidad cultural.
+
+              .row.px-0.py-3(numero="5" titulo="Acción sin daño:")                
+                .col-lg-12.fondo-linea1
+                  div.px-3.py-2 Hace referencia a evitar el daño, directo o indirecto, a la integridad cultural, el ambiente, el territorio, como lo plantea el artículo 44 de la ley 4633 de 2011. El enfoque de acción sin daño plantea la importancia de fortalecer las capacidades que tienen todas las sociedades para construir una convivencia armónica y para gestionar las tensiones y las diferencias sin la mediación de la violencia. En la mayoría de las sociedades —incluso en aquellas inmersas en conflictos armados—, las personas tienden a buscar la resolución pacífica de sus conflictos cotidianos, lo que pone de manifiesto que, pese a la guerra, hay elementos que conectan a los miembros de la comunidad, incluso a aquellos que están en orillas opuestas.
+        .col-lg-6.px-5
+          figure.mb-0
+            img(src="@/assets/curso/tema1/img11.png")  
+
+      .row.align-items-end.mb-5
+        .col-lg-6.px-5
+          figure.mb-0
+            img(src="@/assets/curso/tema1/img12.png")  
+        .col-lg-6
+          .tema-1-tiempo1
+            LineaTiempoD.color-acento-contenido.mb-5   
+              .row.px-0.py-3(numero="1" titulo="La interculturalidad:")                
+                .col-lg-12.fondo-linea1
+                  div.px-3.py-2
+                    p.mb-4  Se refiere al diálogo colaborativo, complementario incluyente, igualitario y equitativo con las diversas culturas y visiones del mundo y de la naturaleza, es el respeto mutuo que incluye diálogo de saberes, participación y concertación respetando los modos de ser, de sentir, de hacer y de relacionarnos y comunicarnos entre las diversas culturas. Es la búsqueda de una interacción de suma positiva comprendiéndonos e incluyéndose desde la diversidad  y con respeto al entorno y al territorio.
+
+              .row.px-0.py-3(numero="2" titulo="Etnicidad:")                
+                .col-lg-12.fondo-linea1
+                  div.px-3.py-2
+                    p.mb-4 Es el reconocimiento, respeto y garantía de los derechos individuales y colectivos de todos los grupos étnicos existentes en el país, generando en la igualdad de oportunidades desde la diferencia, la diversidad y la no discriminación. Con esto, afirma el DNP, se busca incidir en las políticas públicas y promover una cultura de reconocimiento, respeto e igualdad en el ejercicio de los derechos para todos los grupos que integran la nación pluriétnica y multicultural, y así dimensionar los alcances de su inclusión en la agenda pública y la incidencia en sus procesos comunitarios organizativos (Dirección Nacional de Planeación, 2012).
+              
+              .row.px-0.py-3(numero="3" titulo="Etnodesarrollo:")                
+                .col-lg-12.fondo-linea1
+                  div.px-3.py-2 Busca la reivindicación de los pueblos, de su historia, de su patrimonio cultural y propende, en el marco de su autodeterminación por la construcción de su futuro, el desarrollo de su cultura, de sus instituciones, su desarrollo social, mejorando su capacidad para el desarrollo de sus potencialidades, conforme a los aprendizajes y a su historia. Se entiende como el ejercicio de la capacidad social de un pueblo para construir su futuro, aprovechando para ello las enseñanzas de su experiencia histórica y los recursos reales y potenciales de su cultura.          
+
+              .row.px-0.py-3(numero="4" titulo="El indigenismo:")                
+                .col-lg-12.fondo-linea1
+                  div.px-3.py-2 Tiene varias interpretaciones, con un significado polisémico, en un sentido el indigenismo es una corriente de pensamiento que tiene como objeto el estudio de las culturas indígenas en el continente americano, otros teóricos lo proponen como una crítica a la historia de racismo, segregación y exclusión social  a la que han sido sometidos los pueblos originarios, poniendo en riesgo su pervivencia y supervivencia, en especial la de los pueblos indígenas en las Américas, en este sentido se busca una reivindicación de la historia la cultura y los conocimientos ancestrales de estos pueblos.
+
+              .row.px-0.py-3(numero="5" titulo="Pervivencia y supervivencia:")                
+                .col-lg-12.fondo-linea1
+                  div.px-3.py-2 La pervivencia tiene que ver con ser indígena con identidad de un determinado pueblo en su territorio, tiene que ver con el sentido del ser indígena como la diferenciación con el otro. Así mismo, la supervivencia cultura, hace referencia a las condiciones de vida digna, libres y autónomas, en relación con los demás seres de la naturaleza y otras culturas, sociedades y personas “seguir existiendo y vivir con sus formas de vida diferente con dignidad”
+        
           
          
       p.mb-5 Para concluir la conceptualización de esta primera temática, es importante analizar de manera clara un último término que se relaciona en los pueblos indígenas, la pervivencia y supervivencia. 
