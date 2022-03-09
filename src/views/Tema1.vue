@@ -38,22 +38,24 @@
           .tarjeta.color-acento-contenido.p-5(titulo="Diversidad cultural:")
             h4 Diversidad cultural:
             p.mb-4 Son las diferentes expresiones de las comunidades y colectivos sociales, que se transmiten al interior y al exterior. La diversidad se expresa y enriquece de diferentes maneras en la cultura, en el lenguaje, en el arte y las manifestaciones sociales que se transmiten y se transforman dentro y entre los grupos y las sociedades. La diversidad cultural se manifiesta y enriquece el patrimonio cultural de la humanidad a través de la creación artística, los bailes, las representaciones sociales y los imaginarios colectivos.
-            figure.mb-0
-              img(src="@/assets/curso/tema1/img03.svg")  
+            .row
+              .col-lg-7
+                figure.mb-0
+                  img(src="@/assets/curso/tema1/img03.png")  
           .tarjeta.color-acento-contenido.p-5(titulo="Supervivencia cultural:")
             h4 Supervivencia cultural:
             p.mb-4 Se refiere al derecho a la vida y a los medios para tener una vida digna, de vivir en con libertad, autonomía y en armonía con los demás seres de la naturaleza y otras culturas, sociedades y personas, se relaciona ante todo con el acceso a la seguridad alimentaria, la vivienda y la salud, el trabajo y reproducción humana, supliendo las necesidades vitales de la existencia y tener condiciones de vida digna. Es la manifestación del tener en sentido colectivo, con dignidad en armonía con los demás, sin abuso de la naturaleza, lo referente a lo espiritual, lo cultural y lo material.
-            .row.align-items-center.justify-content-center
+            .row
               .col-lg-7
                 figure.mb-0
-                  img(src="@/assets/curso/tema1/img04.png")  
+                  img(src="@/assets/curso/tema1/img50.png") 
           .tarjeta.color-acento-contenido.p-5(titulo="Identidad cultural:")
             h4 Identidad cultural:
             p.mb-4 Es la autodefinición como pueblos indígenas poseedores de una historia, unas tradiciones ancestrales; todo esto enfocado en una educación propia y endógena, complementada con la educación intercultural que soportan los conocimientos y saberes del SER indígena como ser dinámico y transformador social.
-            .row.align-items-center.justify-content-center
+            .row
               .col-lg-7
                 figure.mb-0
-                  img(src="@/assets/curso/tema1/img05.png")  
+                  img(src="@/assets/curso/tema1/img51.png") 
       
       h4 Supervivencia cultural
       p.mb-5 Visualiza el video de supervivencia cultural para que profundices sobre este concepto desde la cosmovisión de los pueblos indígenas.

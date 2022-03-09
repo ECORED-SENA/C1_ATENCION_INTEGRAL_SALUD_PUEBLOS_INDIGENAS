@@ -18,7 +18,7 @@
           img(src="@/assets/curso/tema3/img01.png")  
       .col-lg-7
         .tema-2
-          .cajon-b.color-secundario.p-3.mb-5
+          .tema-3.cajon1.cajon-b.color-secundario.p-3.mb-5
             p.mb-0 Un aspecto esencial y de valor universal es el conocimiento ancestral de los pueblos indígenas sobre el uso de las plantas y de los minerales en estado natural, para su protección en medidas preventivas, en el uso de la medicitradicional y para su seguridad alimentaria; como por ejemplo el uso del achiote utilizado como repelente natural frente las enfermedades transmitidas por vectores, el uso de abrazaderas y adornos en los pies tejidos de bejucos y con pinturas naturales que algunas comunidades como los Nukak Makú han usado para evitar la mordedura por serpientes y arácnidos; el conocimiento sobre las frutas, los vegetales comestibles, la caza y la pesca en su territorio para garantizar su seguridad alimentaria. 
 
     p.mb-5 De acuerdo con lo anterior, el territorio encierra todo el pensamiento y la cultura, es allí donde se considera que se ha gestado la existencia y todo lo que implica ser Indígena, desde el momento de origen del mundo y la creación. 
@@ -36,10 +36,10 @@
         
     .tema-1
         TabsA.color-acento-botones
-          .tarjeta.color-acento-contenido.p-5(titulo="Cultura médica tradicional.")
+          .tarjeta.color-acento-contenido.p-5(titulo="Cultura médica tradicional." style="background-color: #FFE2D9")
             h4 Cultura médica tradicional.
             p.mb-0 De acuerdo al MSPS, la cultura medica tradicional se puede definir como el conjunto de conocimientos, creencias, valores, actitudes y comportamientos que se acostumbran ancestralmente en nuestras comunidades, para la prevención, el diagnóstico, el tratamiento y la explicación de las enfermedades. (Ministerio de Salud y Protección Social, 1992) En este sentido, se destaca la Resolución 5078 de 1992 en la cual establece que el Ministerio de Salud, promoverá y facilitará el intercambio de conocimientos entre los agentes de las Culturas Médicas Tradicionales, el personal institucional de salud y de los Centros de Educación formal e informal y promoverá la articulación al sistema de prestación servicios de salud de aquellos recursos y las Culturas Médicas Tradicionales y las Terapéuticas alternativas, que en cada región resulten como consecuencia de acuerdos entre las autoridades de salud y los representantes de las comunidades, y además que, las instituciones prestatarias de servicios de salud, podrán vincular profesionales con formación en las culturas Médicas Tradicionales y Terapéuticas alternativas, buscando la complementación de los distintos saberes (Ministerio de Salud y Protección Social, 1992)            
-          .tarjeta.color-acento-contenido.p-5(titulo="Cosmovisión y prácticas ancestrales.")
+          .tarjeta.color-acento-contenido.p-5(titulo="Cosmovisión y prácticas ancestrales."  style="background-color: #FFE2D9")
             h4 Cosmovisión y prácticas ancestrales.
             p.mb-5 La cosmovisión se centra en las percepciones, conceptuaciones y valoraciones de los pueblos indígenas, así mismo, las prácticas ancestrales hacen referencia a los conocimientos y prácticas desarrolladas por las comunidades locales a través del tiempo para comprender y manejar sus propios ambientes locales, entre las más utilizadas, se encuentran: 
             .tema-3
@@ -94,22 +94,29 @@
     #t3_2.titulo-segundo.color-acento-contenido
       h2 3.2 Salud intercultural en pueblos indígenas
 
-    .row.align-items-center.justify-content-center.mb-5
+    .row.align-items-center.justify-content-center.mb-5.bg--ligthblue1(style="background-color: #E3E3DF")
       .col-lg-6.d-flex.align-items-center
-        p.mb-0 La salud intercultural en los pueblos indígenas debe partir del respeto por parte de los equipos de salud occidental, a la medicina tradicional, desde el concepto de salud en la cosmovisión indígena, su concepto de enfermedad como un desequilibrio (ni limitado solamente a lo biológico, sino también en su colectivo, en lo espiritual y con el equilibrio con la naturaleza) del respeto por sus autoridades y médicos tradicionales y sobre el conocimiento ancestral en su seguridad alimentaria, en sus prácticas médicas ancestrales, su conocimiento del uso de las plantas y ritos para el mantenimiento y recuperación de la salud individual y colectiva.
-      .col-lg-6.d-flex.align-items-center
+        div 
+          p.mb-4 La salud intercultural en los pueblos indígenas debe partir del respeto por parte de los equipos de salud occidental, a la medicina tradicional, desde el concepto de salud en la cosmovisión indígena, su concepto de enfermedad como un desequilibrio (ni limitado solamente a lo biológico, sino también en su colectivo, en lo espiritual y con el equilibrio con la naturaleza) del respeto por sus autoridades y médicos tradicionales y sobre el conocimiento ancestral en su seguridad alimentaria, en sus prácticas médicas ancestrales, su conocimiento del uso de las plantas y ritos para el mantenimiento y recuperación de la salud individual y colectiva.
+          p.mb-0 <b>La salud en un enfoque intercultural implica la complementariedad de los saberes, mediante el diálogo de saberes en igualdad de condiciones, incorporar el saber de los médicos tradicionales y complementarnos con ellos en la atención de la salud para las personas y las comunidades.</b>
+      .col-lg-6.d-flex.align-items-center.pe-0
         figure.mb-0
           img(src="@/assets/curso/tema3/img02.png")  
 
-    .tema-2.mb-5
-      .cajon.color-secundario.p-5
-        p.mb-0 La salud en un enfoque intercultural implica la complementariedad de los saberes, mediante el diálogo de saberes en igualdad de condiciones, incorporar el saber de los médicos tradicionales y complementarnos con ellos en la atención de la salud para las personas y las comunidades.
+    
+        
 
     p.mb-5 La recuperación y conservación del conocimiento cultural debe ser integral con la participación de los pueblos involucrados y ligada a la preservación de la diversidad biológica. La protección y el cultivo de las especies en peligro de extinción deben formar parte de las políticas nacionales. El conocimiento sistemático del saber indígena, el intercambio local, nacional y regional de la información es esencial como un medio para sensibilizar y educar a la sociedad civil acerca de las culturas que integran el país (OPS/OMS, 1996 Ref:23) (Organización Panamericana de la Salud, 1997) En este sentido, la Iniciativa de Salud de los Pueblos Indígenas, en el marco de los principios de Winnipeg, aboga por el abordaje integral de la salud y el respeto y revitalización de la cultura de los pueblos indígenas de la región en un clima de mutuo respeto, participación sistemática y reciprocidad en las relaciones.
 
-    .tema-2.mb-5
-      .cajon.color-secundario.p-5
-        p.mb-0 El desafío que presenta la carencia de conocimientos e información adecuados y suficientes sobre la salud de los pueblos indígenas y sobre experiencias en la complementariedad de los sistemas médicos tradicionales y occidentales, frente al imperativo de actuar y lograr impactos inmediatos, exige el diseño de estrategias que permitan tanto, generar conocimientos e información adecuada mientras se actúa (“aprender haciendo”), cómo rescatar de manera sistemática el conocimiento y la información generados por la experiencia (“aprender de lo que se ha hecho y de lo que se está haciendo”). Los conocimientos generados, deberán convertirse en las pautas que orienten el trabajo con pueblos indígenas y de quienes se comprometan con el mismo (Organización Panamericana de la Salud, 1997).
+    .row.mb-5
+      .col-lg-6
+        figure.mb-0
+          img(src="@/assets/curso/tema3/img05.png")  
+      .col-lg-6
+        .cajon.color-acento-contenido.p-4.mb-4
+          p.mb-0 El desafío que presenta la carencia de conocimientos e información adecuados y suficientes sobre la salud de los pueblos indígenas y sobre experiencias en la complementariedad de los sistemas médicos tradicionales y occidentales, frente al imperativo de actuar y lograr impactos inmediatos, exige el diseño de estrategias que permitan tanto, generar conocimientos e información adecuada mientras se actúa (“aprender haciendo”), cómo rescatar de manera sistemática el conocimiento y la información generados por la experiencia (“aprender de lo que se ha hecho y de lo que se está haciendo”). Los conocimientos generados, deberán convertirse en las pautas que orienten el trabajo con pueblos indígenas y de quienes se comprometan con el mismo (Organización Panamericana de la Salud, 1997).
+    
+        
 
 
 
@@ -143,7 +150,7 @@
           img(src="@/assets/curso/tema3/img03.png")  
 
     .tema-2.mb-5
-      .cajon.color-secundario.p-5
+      .cajon.color-acento-contenido.p-5
         p.mb-0 El espacio de la enfermedad no es el espacio del shamán, es apenas una parte de su espacio que incluye la relación con el cosmos, con el orden natural y social de su comunidad (Organización Panamericana de la Salud, 2006)
 
 

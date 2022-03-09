@@ -14,10 +14,13 @@ caption
     background-color: $white
 
 .tema-1 .tabs-a__tab     
-  background-color: #EAAD9B !important
+  background-color: #BEBBAA !important
 
 .tema-1 .tabs-a.color-acento-botones .tabs-a__tab__selected 
-    background-color: #847B60 !important  
+    background-color: #F7724A !important  
+
+.tabs-a.color-acento-botones .tabs-a__tab__selected:before 
+    background-color: #F7724A;
 
 .tema-2 .linea-tiempo-b.color-secundario .linea-tiempo-b__icon 
   background-color: #FFDDAE;
@@ -123,8 +126,31 @@ caption
     background-color: #FEE7C5;
     opacity: 1;
 
-  
+.tema-3.cajon1.cajon-b.color-secundario:before 
+  background-color: #FFE8E2;
+  opacity: 1;
 
+.tema-3.cajon2.cajon-b.color-secundario:before 
+  background-color: #FFE5DD;
+  opacity: 1;
+
+.bg--ligthblue1
+  position: relative  
+  .row, p, figure
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    top: 0
+    left: 0
+    width: 150%
+    height: 100%
+    margin: 0 -5rem   
+    background-color: #E3E3DF
+
+  
+.tema-2 .cajon.color-acento-contenido
+  background-color: #FFF6F4
 
 
 
