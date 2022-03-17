@@ -1,6 +1,6 @@
 <template lang="pug">
 .curso-main-container.pb-3
-  BannerInterno(icono="fas fa-tasks" titulo="Actividad didáctica")
+  BannerInterno(icono="fas fa-puzzle-piece" titulo="Actividad didáctica")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     
     .titulo-segundo.color-secundario
