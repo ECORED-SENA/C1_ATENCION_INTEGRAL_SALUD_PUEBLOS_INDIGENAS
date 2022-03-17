@@ -1,3 +1,8 @@
-H1, H2, H3, H5, H11, H12: Me pueden indicar por favor en donde esta la tarjeta padre. No la encuentro para anexar los videos
+@zuleidymariaruiztorres
+H2, H3, H5, H11: No se encuentran los videos
+
+@carlosjramirez1
 H13: Solicitan cambiar el texto del boton en el banner principal, lo cual no algo que se haga regularmente. El ajuste no se hace pero se recomienda revisar.
-H16 y H17: El orden de inicio esta dado por la base. Se solicita la diseñador contemplar cambiar el orden de los elementos para que inicie a la izquierda de lo contrario habria que modificar el componente. 
+
+@carlosjramirez1
+H16 y H17: El orden de inicio esta dado por la base. Se solicita la diseñador contemplar cambiar el orden de los elementos para que inicie a la izquierda de lo contrario habria que modificar el componente.
