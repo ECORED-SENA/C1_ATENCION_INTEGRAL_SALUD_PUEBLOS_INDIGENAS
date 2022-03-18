@@ -378,8 +378,7 @@
 
     .tema-2 
       SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
-        .tarjeta.color-acento-contenido.p-5(style="height: 100%")
-          div 
+        .tarjeta.color-acento-contenido.p-5(style="position: relative; height: 100%")          
             .row.justify-content-center.mb-4
               .col-lg-9
                 figure.mb-0
