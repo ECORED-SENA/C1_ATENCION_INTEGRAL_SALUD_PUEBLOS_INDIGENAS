@@ -2,29 +2,32 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido.mb-0
       .titulo-principal__numero
         span 2
       h1 Marco normativo y políticas de derecho nacional
     
-    .tema-2
-      .cajon-b.color-primario.p-3.mb-5
-        p.mb-0 El marco normativo y las políticas de los pueblos indígenas son específicas y corresponden a años de trabajo para que se haya logrado el reconocimiento de sus derechos. De manera inicial se tiene el estado del arte de los derechos de los pueblos indígenas, en el que, se ha presentado un conflicto constante entre el reconocimiento de los derechos de los pueblos indígenas en todos los países y su concreción y el disfrute de estos derechos por parte de las comunidades indígenas; así mismo la restitución de los derechos, el diálogo intercultural y el enfoque de derechos para el actuar de las instituciones de la salud y del talento humano, de los equipos de salud exige en el actuar y la interrelación un profundo respeto por la cultura, los conocimientos y las tradiciones de los pueblos indígenas, lo que se ha dado a través de los derechos internacionales humanitario. 
-    
-    .row.align-items-center.justify-content-center.mb-5
-      .col-lg-5
-        figure.mb-0
-          img(src="@/assets/curso/tema2/img01.svg")  
-      .col-lg-7
-        .tema-2
-          .cajon-b.color-secundario.p-3.mb-5
-            p.mb-0 El marco internacional y nacional, permite reconocer los derechos de los pueblos indígenas, ya que se consideran fundamentales para la respuesta a años de lucha; reconocer el marco nacional e internacional de los derechos de los pueblos indígenas, es fundamental; por ello, a continuación, se presenta un resumen y análisis del marco de los derechos de los pueblos indígenas a nivel nacional e internacional, considerando las principales normas establecidas por la ONU, la OIT, la OACNUDH y a nivel nacional desde la constitución política colombiana, la Presidencia de la República, el Ministerio del Interior y el Ministerio de Salud.
-    Separador
+    .fondo-especial1.p-0.m-0.pt-5
+      .tema-2
+        .cajon-b.color-primario.p-3.mb-5
+          p.mb-0 El marco normativo y las políticas de los pueblos indígenas son específicas y corresponden a años de trabajo para que se haya logrado el reconocimiento de sus derechos. De manera inicial se tiene el estado del arte de los derechos de los pueblos indígenas, en el que, se ha presentado un conflicto constante entre el reconocimiento de los derechos de los pueblos indígenas en todos los países y su concreción y el disfrute de estos derechos por parte de las comunidades indígenas; así mismo la restitución de los derechos, el diálogo intercultural y el enfoque de derechos para el actuar de las instituciones de la salud y del talento humano, de los equipos de salud exige en el actuar y la interrelación un profundo respeto por la cultura, los conocimientos y las tradiciones de los pueblos indígenas, lo que se ha dado a través de los derechos internacionales humanitario. 
+      
+      .row.align-items-center.justify-content-center.mb-5
+        .col-lg-5
+          figure.mb-0
+            img(src="@/assets/curso/tema2/img01.svg")  
+        .col-lg-7
+          .tema-2
+            .cajon-b.color-secundario.p-3.mb-5
+              p.mb-0 El marco internacional y nacional, permite reconocer los derechos de los pueblos indígenas, ya que se consideran fundamentales para la respuesta a años de lucha; reconocer el marco nacional e internacional de los derechos de los pueblos indígenas, es fundamental; por ello, a continuación, se presenta un resumen y análisis del marco de los derechos de los pueblos indígenas a nivel nacional e internacional, considerando las principales normas establecidas por la ONU, la OIT, la OACNUDH y a nivel nacional desde la constitución política colombiana, la Presidencia de la República, el Ministerio del Interior y el Ministerio de Salud.
+      
+      Separador
 
-    #t2_1.titulo-segundo.color-acento-contenido
-      h2 2.1 Marco internacional
+      #t_2_1.titulo-segundo.color-acento-contenido
+        h2 2.1 Marco internacional
+    
     p.mb-5 El convenio internacional sobre poblaciones indígenas y tribales reconoció, entre otros, el derecho de propiedad, colectivo o individual, a favor de los miembros de los pueblos indígenas sobre las tierras tradicionalmente ocupadas por ellas (Organización Internacional del Trabajo, 1957) Lo anterior implica el cuidado del territorio que ocupan los pueblos indígenas, el cuidado de su medio ambiente, de sus fuentes de agua y alimentación, cuidando de no contaminar sus recursos y establecer medidas de control en sus fronteras y con la población colindante. A continuación, se podrá conocer este marco normativo:
-    div.py-5(style="background-color: #FFF7F5")
+    div.py-5
       .tema-2
         LineaTiempoE.color-acento-contenido
           .row.align-items-center(titulo="Artículo 27 del pacto internacional de derechos civiles y políticos" subtitulo="")
@@ -99,7 +102,7 @@
             p.mb-0 Derecho a mantener, controlar, proteger y desarrollar su patrimonio cultural, sus conocimientos tradicionales, expresiones culturales tradicionales y las manifestaciones de sus ciencias, tecnologías y culturas, comprendidos los recursos humanos y genéticos, las semillas, las medicinas, el conocimiento de las propiedades de la fauna y la flora, las tradiciones orales, las literaturas, los diseños, los deportes y juegos tradicionales, y las artes visuales e interpretativas.
     Separador
 
-    #t2_2.titulo-segundo.color-acento-contenido
+    #t_2_2.titulo-segundo.color-acento-contenido
       h2 2.2 Marco de política y de derecho nacional
 
     p.mb-5 Colombia ratificó la Convención 169 de 1989 de la OIT sobre Pueblos Indígenas y Tribales mediante la Ley 21 de 1991, según la jurisprudencia permanente de la Corte Constitucional, las disposiciones constitucionales y las regulaciones de la convención 169 de la OIT forman un bloque de constitucionalidad (Semper, 2006) Así mismo, los relacionados en la Constitución Política de Colombia (CP) que son: 
@@ -115,7 +118,7 @@
               .col-lg-9
                 figure.mb-5
                   img(src="@/assets/curso/tema2/img04.png")  
-            p.mb-0 Se adoptan medidas legislativas o adminsitrativas para asesgurar la efectividad y concreción de los derechos fundamentales a la integridad cultural, social y económica de la comunidad indigena y subsistencia como grupo social 
+            p.mb-0 Se adoptan medidas legislativas o adminsitrativas para asesgurar la efectividad y concreción de los derechos fundamentales a la integridad cultural, social y económica de la comunidad indigena y subsistencia como grupo social.
         .col-lg-6.d-flex
           div.p-5.tema2-fondo-2(style="background-color:#C0C3B0")
             h3.text-center.mb-5 Ley 691 de 2001
@@ -139,7 +142,7 @@
         figure.mb-0
           img(src="@/assets/curso/tema2/img22.svg")
 
-    p.mb-5 Las autoridades indígenas tienen competencias en el marco de su sistema de salud, ya que la ley establece que son consideradas instancias, organismos e instituciones en sus territorios, atendiendo su especial naturaleza jurídica y organizativa. Por esto, en el capítulo siete (Artículos 22 al 24) se establecen los principios de concertación, representatividad y control de las autoridades en los Consejos territoriales de seguridad social en Salud.
+    p.mb-5 Las autoridades indígenas tienen competencias en el marco de su sistema de salud, ya que la ley establece que son consideradas instancias, organismos e instituciones en sus territorios, atendiendo su especial naturaleza jurídica y organizativa. Por esto, en el capítulo siete (Artículos 22 al 24) se establecen los principios de concertación, representatividad y control de las autoridades en los Consejos territoriales de seguridad social en salud.
     .tema-2.mb-5
       .cajon.color-secundario.p-5
         p.mb-0 De acuerdo con los capítulos dos y tres de esta ley, los miembros de los pueblos indígenas en el Sistema General de Seguridad Social en Salud se vinculan como afiliados al Régimen Subsidiado, excepto en los siguientes casos: que esté vinculado mediante contrato de trabajo; que sea servidor público; que goce de pensión de jubilación. Los pueblos indígenas tienen acceso a los planes y programas del Sistema General de Seguridad Social en Salud: Plan Obligatorio de Salud: POS; Plan Obligatorio de Salud Subsidiado: POS-S; Plan de Atención Básica: PAB; Atención inicial de Urgencias.
@@ -157,7 +160,7 @@
       .cajon.color-secundario.p-5
         p.mb-0 Se puede resaltar de la ley y la subsecuente jurisprudencia al respecto, que ha permitido que las comunidades indígenas podrán afiliarse al Régimen Subsidiado de manera colectiva y preferencialmente a una ARSI (Administradoras Indígenas de Salud), según lo previsto en el artículo 17 de la Ley 691 de 2001.
     
-    p.mb-5 <b>Adicional a la Ley 691 existen otras reglamentaciones que posibilita que los pueblos indígenas </b>
+    p.mb-5 <b>Adicional a la Ley 691 existen otras reglamentaciones que posibilita que los pueblos indígenas: </b>
     
     .row.mb-5
         .col-lg-6.d-flex 
@@ -187,14 +190,14 @@
 
     .row.tema-2.mb-5
       .col-lg-11
-        LineaTiempoE.color-acento-contenido
-          .row(titulo="Artículo 75. Principios que establece el SISPI:" subtitulo="")
+        LineaTiempoE.color-acento-contenido.mb-0
+          .row(titulo="Artículo 75. Principios que establece el SISPI" subtitulo="")
             .col-lg-12
               p.mb-5 <b>Accesibilidad:</b> garantiza el cuidado de la salud de manera oportuna, adecuada, eficiente e integral como un derecho fundamental individual y colectivo, en armonía con el territorio y su cosmovisión.
               p.mb-5 <b>Complementariedad terapéutica:</b> garantiza la integralidad en el cuidado de la salud a través de la medicina propia y de la que brinda el SGSSS, como las medicinas alternativas incluidas dentro de este último, en una dinámica de dialogo y respeto mutuo.
               p.mb-5 <b>Reciprocidad:</b> se retribuye una acción con fundamento en las relaciones entre los seres humanos y espirituales que habitan el territorio, expresados en prácticas o rituales ancestrales, en los intercambios de saberes, la comunidad, y en todos los espacios de la vida, propendiendo por el cuidado de la salud como un derecho fundamental.
               p.mb-5 <b>Interculturalidad:</b> es la comunicación y coordinación comprensiva entre los diferentes saberes y prácticas de los pueblos y las instituciones del SGSSS, que genera el reconocimiento, la valoración y el respeto a su particularidad, en el plano de la igualdad, armonía y equilibrio
-          .row(titulo="Artículo 76. Concepto de salud propia:" subtitulo="")
+          .row(titulo="Artículo 76. Concepto de salud propia" subtitulo="")
             .col-lg-12
               p.mb-5 Es la armonía y el equilibrio de acuerdo con la cosmovisión de cada pueblo indígena, resultado de las relaciones de la persona consigo misma, con la familia, la comunidad y el territorio.
           .row(titulo="Artículo 77. Componentes del Sistema Indígena de Salud Propio Intercultural (SISPI)" subtitulo="")
@@ -215,13 +218,13 @@
                 li 
                   span.text-bold 
                   | 5. Administración y gestión.
-          .row(titulo="Artículo 83. Competencias en salud de los territorios indígenas." subtitulo="")
+          .row(titulo="Artículo 83. Competencias en salud de los territorios indígenas" subtitulo="")
             .col-lg-12
               p.mb-5 Define, adapta y ejecuta diferentes acciones en salud pública en coordinación con el Ministerio de Salud y Protección Social, de acuerdo con las normas establecidas, con una previa certificación en salud. 
           .row(titulo="Artículo 84. Estructuras propias del SISPI." subtitulo=" ")
             .col-lg-12
               p.mb-5 Se tiene en cuenta el decreto y lo competente a la Mesa Permanente de Concertación con Pueblos y Organizaciones Indígenas. La Subcomisión de Salud Indígena será la instancia consultiva y técnica entre el Gobierno nacional y los pueblos indígenas que orienta, formula y contribuye a la construcción e implementación del SISPI, la cual operará de acuerdo con el plan de trabajo, según sus necesidades de desarrollo.
-          .row(titulo="Artículo 85. Financiación del SISPI en cada uno de sus componentes:" subtitulo="")
+          .row(titulo="Artículo 85. Financiación del SISPI en cada uno de sus componentes" subtitulo="")
             .col-lg-12            
               a.boton.color-acento-botones.indicador__container(@click="modal1 = true")
                 .row
@@ -233,7 +236,7 @@
                       img(src="@/assets/curso/tema2/img09.svg")
 
               ModalA(:abrir-modal.sync="modal1")
-                .tabla-a.color-secundario 
+                .tabla-a.color-secundario
                   table                  
                     thead
                       tr
@@ -253,21 +256,26 @@
                       tr
                         td Formación, capacitación, generación y uso del conocimiento en salud.
                         td Gestión de proyectos de ciencia, tecnología, e innovación a ser financiados con cargo al sistema general de regalías, fondo de ciencia y tecnología.
-                        
-                
-          .row(titulo="Artículo 86. Financiamiento en la prestación de servicios." subtitulo=" ")
+
+    
+    p.mb-4 El Ministerio de Salud y Protección Social requiere información para determinar la UPC diferencial indígena y esto lo hace a partir de la colaboración de las EPS e IPS indigencias y no indigencias, y para su cumplimiento se tiene en cuenta los siguientes artículos:        
+
+    .row.tema-2.mb-5
+      .col-lg-11        
+        LineaTiempoE.color-acento-contenido.mb-10
+          .row(titulo="Artículo 86. Financiamiento en la prestación de servicios" subtitulo=" ")
             .col-lg-12
               p.mb-5 Se establece las acciones de prestación de servicios a cargo de las IPS indígenas debidamente habilitadas en sus Territorios se financiarán con recursos de la UPC, para lo cual las EPS indígenas o las estructuras que hagan sus veces deberán contratar un mínimo porcentual del gasto en salud con el respectivo ente territorial. Además, en el parágrafo establece que el estado garantizará en el marco del SISPI a los pueblos indígenas el acceso al cuidado de la salud sin costo alguno como un derecho fundamental. Lo anterior sin perjuicio de lo establecido en la Ley 691 de 2001 o la norma que lo modifique, adicione o sustituya.
-          .row(titulo="Artículo 87. Evaluación, seguimiento y control." subtitulo="")
+          .row(titulo="Artículo 87. Evaluación, seguimiento y control" subtitulo="")
             .col-lg-12
               p.mb-5 Se plantea mecanismos de evaluación, seguimiento y control, de acuerdo con los principios generales del SGSSS. 
-          .row(titulo="Artículo 88. Transitoriedad." subtitulo="")
+          .row(titulo="Artículo 88. Transitoriedad" subtitulo="")
             .col-lg-12
               p.mb-0 El SISPI se implementará gradualmente de acuerdo con la iniciativa y dinámica de cada Territorio Indígena. Hasta tanto esto ocurra, el SGSSS garantizará el cuidado de salud de los pueblos indígenas a través de las instituciones de salud indígenas y no indígenas.
       
     p.mb-5 La interpretación del Decreto 1953 de 2014, por el cual se crea un régimen especial con el fin de poner en funcionamiento los Territorios Indígenas respecto de la administración de los sistemas propios de los pueblos indígenas, en su artículo 10 tendrá como fundamento los siguientes principios: 
 
-    .row.align-items-center.py-5.mb-5(style="background-color: #F2F4EA")
+    .row.align-items-center.py-5(style="background-color: #F2F4EA")
       .col-lg-6.px-5
         .row.align-items-center.mb-2
           .col-lg-2.d-flex.justify-content-end
@@ -328,38 +336,42 @@
           img(src="@/assets/curso/tema2/img19.png")              
       .col-lg-1
 
-      
-    p.mb-5 Ya, en el <b>artículo 11</b> se dictan las autoridades propias, esto de conformidad con la Constitución y las leyes. Los Territorios Indígenas estarán gobernados por consejos indígenas u otras estructuras colectivas similares de gobierno propio, reglamentados según la ley de origen, derecho mayor o derecho propio de sus comunidades y ejercerán, dentro de su territorio, las competencias y funciones establecidas en la Constitución y las leyes. Cada vez que haya una designación de uno o más miembros de dichos consejos o estructuras colectivas similares de gobierno propio, los respectivos actos de designación deben registrarse ante la Dirección de Asuntos Indígenas del Ministerio del Interior.
 
-    h4 Barreras de acceso     
+    .fondo-especial2.py-5
+      br
+      br
+      p.mb-5 Ya, en el <b>artículo 11</b> se dictan las autoridades propias, esto de conformidad con la Constitución y las leyes. Los Territorios Indígenas estarán gobernados por consejos indígenas u otras estructuras colectivas similares de gobierno propio, reglamentados según la ley de origen, derecho mayor o derecho propio de sus comunidades y ejercerán, dentro de su territorio, las competencias y funciones establecidas en la Constitución y las leyes. Cada vez que haya una designación de uno o más miembros de dichos consejos o estructuras colectivas similares de gobierno propio, los respectivos actos de designación deben registrarse ante la Dirección de Asuntos Indígenas del Ministerio del Interior.
 
-    p.mb-5 Visualiza el siguiente video para conocer sobre las barreras de acceso centradas a un sistema político y administrativo nacionales, departamentales y locales, los cuales van en coherencia con la normatividad nacional e internacional existente para los pueblos indígenas.
+      h4 Barreras de acceso     
 
-    .row.justify-content-center
-      .col-lg-10
-        figure.mb-5 
-          .video            
-            iframe(width="1280" height="720" src="https://www.youtube.com/embed/7XinEkDgsaw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      p.mb-5 Visualiza el siguiente video para conocer sobre las barreras de acceso centradas a un sistema político y administrativo nacionales, departamentales y locales, los cuales van en coherencia con la normatividad nacional e internacional existente para los pueblos indígenas.
+
+      .row.justify-content-center
+        .col-lg-10
+          figure.mb-5 
+            .video            
+              iframe(width="1280" height="720" src="https://www.youtube.com/embed/7XinEkDgsaw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     Separador
 
-    #t2_3.titulo-segundo.color-acento-contenido
+    #t_2_3.titulo-segundo.color-acento-contenido
       h2 2.3 Organización, estructuras propias y territorio
 
-    .tema-2.cajon1.cajon-b.color-primario.p-3.mb-4
+    .tema-2.cajon1.cajon-b.color-primario.px-0.pt-3.pb-0
         p.mb-4 Los territorios indígenas, resguardos indígenas, como han sido reconocidos por la legislación nacional y como legado histórico desde la época de la colonia, cumplen una función social y ecológica, conforme a los usos, costumbres y cultura de sus integrantes, garantizan la continuidad de las dinámicas ecológicas naturales, la conservación de la biodiversidad, los bosques, el agua, el aire y el suelo, así como la garantía de supervivencia de las comunidades indígenas, con las posibilidades de reproducirse física y culturalmente.
-        p.mb-0 <b>Las comunidades indígenas colombianas son portadoras de un importante patrimonio cultural</b> ligado con las formas de uso y manejo de los recursos naturales, el conocimiento tradicional acerca de plantas y animales, así como de técnicas y estrategias de manejo y conservación los cuales cumplen una importante función en la mayoría de los resguardos (Presidencia de la República de Colombia, 1994)
+        p.mb-0 <b>Las comunidades indígenas colombianas son portadoras de un importante patrimonio cultural</b> ligado con las formas de uso y manejo de los recursos naturales, el conocimiento tradicional acerca de plantas y animales, así como de técnicas y estrategias de manejo y conservación los cuales cumplen una importante función en la mayoría de los resguardos (Presidencia de la República de Colombia, 1994).
     
-    .row.justify-content-center.mb-5
-      .col-lg-6
-        figure.mb-0
-          img(src="@/assets/curso/tema2/img23.svg") 
-      .col-lg-6
-        .tema-2.cajon2.cajon-b.color-primario.px-3.p-3.mb-4.mx-0
-          p.mb-0 El reconocimiento constitucional de la propiedad colectiva del resguardo tiene como propósito la preservación de las culturas indígenas. Los artículos 63 y 329 de la Constitución establecen que las tierras de resguardo son inalienables, imprescriptibles e inembargables. Los resguardos son de propiedad colectiva, y no enajenables (Departamento Nacional de Planeación, 2010). A este ejercicio autónomo y descentralizado se le conoce como gobernanza indígena la cual implica que, durante el ejercicio de gobierno, sean reconocidas la diversidad de cosmovisiones, valores y tradiciones culturales que caracterizan a los pueblos indígenas, generando entonces una imperiosa necesidad de participación en las decisiones del gobierno nacional.
-        p.mb-4 Dentro de la regulación de estos ejercicios de territorialidad, gobernanza y autonomía, forma parte fundamental los planes de vida, amparados por el artículo 31 de la ley 99 de 1993 y el Decreto 1953 de 2014, por el cual se crea un régimen especial con el fin de poner en funcionamiento los Territorios Indígenas respecto de la administración de los sistemas propios de los pueblos indígenas.
-        p.mb-4 Los pueblos originarios tienen sus propias formas de organización, capacidades de autogestión y de desarrollar sus proyectos de vida, aspectos que han garantizado su pervivencia en los territorios. Este reconocimiento se encuentra en la carta política: “las autoridades de los pueblos indígenas podrán ejercer funciones jurisdiccionales dentro de su ámbito territorial, de conformidad con sus propias normas y procedimientos. Estas Autoridades funcionarán en coordinación con el Sistema Judicial Nacional” (Art. 246). 
-    
+    .fondo-especial3.py-4
+      .row.justify-content-center.mb-5
+        .col-lg-6
+          figure.mb-0
+            img(src="@/assets/curso/tema2/img23.svg") 
+        .col-lg-6
+          .tema-2.cajon2.cajon-b.color-primario.px-3.p-3.mb-4.mx-0
+            p.mb-0 El reconocimiento constitucional de la propiedad colectiva del resguardo tiene como propósito la preservación de las culturas indígenas. Los artículos 63 y 329 de la Constitución establecen que las tierras de resguardo son inalienables, imprescriptibles e inembargables. Los resguardos son de propiedad colectiva, y no enajenables (Departamento Nacional de Planeación, 2010). A este ejercicio autónomo y descentralizado se le conoce como gobernanza indígena la cual implica que, durante el ejercicio de gobierno, sean reconocidas la diversidad de cosmovisiones, valores y tradiciones culturales que caracterizan a los pueblos indígenas, generando entonces una imperiosa necesidad de participación en las decisiones del gobierno nacional.
+          p.mb-4 Dentro de la regulación de estos ejercicios de territorialidad, gobernanza y autonomía, forma parte fundamental los planes de vida, amparados por el artículo 31 de la ley 99 de 1993 y el Decreto 1953 de 2014, por el cual se crea un régimen especial con el fin de poner en funcionamiento los Territorios Indígenas respecto de la administración de los sistemas propios de los pueblos indígenas.
+          p.mb-4 Los pueblos originarios tienen sus propias formas de organización, capacidades de autogestión y de desarrollar sus proyectos de vida, aspectos que han garantizado su pervivencia en los territorios. Este reconocimiento se encuentra en la carta política: “las autoridades de los pueblos indígenas podrán ejercer funciones jurisdiccionales dentro de su ámbito territorial, de conformidad con sus propias normas y procedimientos. Estas Autoridades funcionarán en coordinación con el Sistema Judicial Nacional” (Art. 246). 
+      
     p.mb-5 <b>El Decreto 2164 de 1995, presenta las siguientes términos y definiciones (Presidencia de la República de Colombia, 1995):</b>
         
 
@@ -371,38 +383,38 @@
               .col-lg-9
                 figure.mb-0
                   img(src="@/assets/curso/tema2/img24.png")
-            h3.text-center Territorios indígenas: 
+            h3.text-center Territorios indígenas
             p.mb-0 Áreas poseídas en forma regular y permanente por una comunidad, parcialidad o grupo indígenas y aquellas que, aunque no se encuentren poseídas en esa forma, constituyen el ámbito tradicional de sus actividades sociales, económicas y culturales.
         .tarjeta.color-acento-contenido.p-5                
           .row.justify-content-center.mb-4
               .col-lg-9
                 figure.mb-0
                   img(src="@/assets/curso/tema2/img25.png")        
-          h3.text-center Comunidad o parcialidad indígena:
+          h3.text-center Comunidad o parcialidad indígena
           p.mb-0 Grupo o conjunto de familias de ascendencia amerindia, que tienen conciencia de identidad y comparten valores, rasgos, usos o costumbres de su cultura, así como formas de gobierno, gestión, control social o sistemas normativos propios que la distinguen de otras comunidades, tengan o no títulos de propiedad, o que no puedan acreditarlos legalmente, o que sus resguardos fueron disueltos, divididos o declarados vacantes.
         .tarjeta.color-acento-contenido.p-5                        
           .row.justify-content-center.mb-4
               .col-lg-9
                 figure.mb-0
                   img(src="@/assets/curso/tema2/img26.png")        
-          h3.text-center Reserva indígena:
+          h3.text-center Reserva indígena
           p.mb-0 Terreno baldío ocupado por una o varias comunidades indígenas que fue delimitado y legalmente asignado por el Incora a aquellas para que ejerzan en él los derechos de uso y usufructo con exclusión de terceros. Las reservas indígenas constituyen tierras comunales de grupos étnicos, para los fines previstos en el artículo 63 de la Constitución Política y la Ley 21 de 1991.
         .tarjeta.color-acento-contenido.p-5          
           .row.justify-content-center.mb-4
               .col-lg-9
                 figure.mb-0
                   img(src="@/assets/curso/tema2/img27.png")                      
-          h3.text-center Autoridad tradicional: 
+          h3.text-center Autoridad tradicional
           p.mb-0 Miembros de una comunidad indígena que ejercen, dentro de la estructura propia de la respectiva cultura, un poder de organización, gobierno, gestión o control social.
         .tarjeta.color-acento-contenido.p-5          
           .row.justify-content-center.mb-4
               .col-lg-9
                 figure.mb-0
                   img(src="@/assets/curso/tema2/img28.png")                      
-          h3.text-center Cabildo indígena: 
+          h3.text-center Cabildo indígena
           p.mb-0 entidad pública especial, cuyos integrantes son miembros de una comunidad indígena, elegidos y reconocidos, con una organización socio política tradicional, cuya función es representar legalmente a la comunidad, ejercer la autoridad y realizar las actividades que le atribuyen las leyes, sus usos, costumbres y el reglamento interno de cada comunidad.
     
-    p.mb-4 El Decreto 2164 de 1995 determina que la explotación de los recursos naturales en los territorios indígenas se hará sin desmedro de la integridad cultural, social y económica de las comunidades indígenas. En las decisiones que se adopten respecto de dicha explotación, el Gobierno propiciará la participación de los representantes de las respectivas comunidades, en este sentido, la corte constitucional establece en la Sentencia C_891 de 2002, que la consulta previa es un derecho colectivo de los pueblos indígenas y otros grupos étnicos del país, “en cuanto derecho fundamental, individual y colectivo, de los grupos étnicos constituye un instrumento básico para preservar la integridad étnica, social y cultural de las comunidades y asegurar su subsistencia como grupo social” (Departamento Nacional de Planeación, 2010)
+    p.mb-4 El Decreto 2164 de 1995 determina que la explotación de los recursos naturales en los territorios indígenas se hará sin desmedro de la integridad cultural, social y económica de las comunidades indígenas. En las decisiones que se adopten respecto de dicha explotación, el Gobierno propiciará la participación de los representantes de las respectivas comunidades, en este sentido, la corte constitucional establece en la Sentencia C_891 de 2002, que la consulta previa es un derecho colectivo de los pueblos indígenas y otros grupos étnicos del país, “en cuanto derecho fundamental, individual y colectivo, de los grupos étnicos constituye un instrumento básico para preservar la integridad étnica, social y cultural de las comunidades y asegurar su subsistencia como grupo social” (Departamento Nacional de Planeación, 2010).
     p.mb-5 <b>Además, el Decreto 4633 de 2011 establece: </b>
 
     .tema-2.div-LineaTiempoB 
@@ -420,13 +432,13 @@ export default {
     mostrarIndicador: true,
     datosLineaTiempo_2: [
       {
-        titulo: 'Artículo 9.',
+        titulo: 'Artículo 9',
         texto:
           'El derecho fundamental al territorio, el cual es de carácter inalienable, imprescriptible e inembargable de los derechos sobre las tierras comunales de grupos étnicos y las tierras de resguardo deberá orientar el proceso de restitución, devolución y retorno de los sujetos colectivos e individuales afectados. Lo anterior, debe garantizar su pervivencia física y cultural, la cual debe de ser reconocida y comprendida como la base fundamental de sus culturas, su vida espiritual, su integridad y el desarrollo autónomo de sus planes de vida.',
         icono: require('@/assets/curso/tema2/img02.svg'),
       },
       {
-        titulo: 'Artículo 62.',
+        titulo: 'Artículo 62',
         texto:
           'Medidas de protección espiritual del territorio, los sitios sagrados y lugares considerados por los pueblos indígenas como sagrados o indispensables para el ejercicio de la espiritualidad individual y colectiva, se entenderán como bienes culturales y/o lugares de culto.',
         icono: require('@/assets/curso/tema2/img02.svg'),
@@ -434,36 +446,36 @@ export default {
     ],
     datosLineaTiempo_1: [
       {
-        titulo: 'Artículo 7.',
+        titulo: 'Artículo 7',
         texto:
           'Reconoce y protege la diversidad étnica y cultural de la nación colombiana. ',
         icono: require('@/assets/curso/tema2/img02.svg'),
       },
       {
-        titulo: 'Artículo 11.',
+        titulo: 'Artículo 11',
         texto: 'Derecho a la vida.',
         icono: require('@/assets/curso/tema2/img02.svg'),
       },
       {
-        titulo: 'Artículo 12. ',
+        titulo: 'Artículo 12',
         texto:
           'Derecho a la integridad étnica, cultural, social y económica a resultas del derecho a la integridad física.',
         icono: require('@/assets/curso/tema2/img02.svg'),
       },
       {
-        titulo: 'Artículo 330.',
+        titulo: 'Artículo 330',
         texto:
           'Derecho a la propiedad de tierra comunitaria; participación en decisiones y medidas que pudiesen afectar a las comunidades indígenas, en particular relacionadas con la extracción de recursos naturales en sus territorios.',
         icono: require('@/assets/curso/tema2/img02.svg'),
       },
       {
-        titulo: 'Artículo 63.',
+        titulo: 'Artículo 63',
         texto:
           'Derecho a la propiedad de tierras comunitarias bajo la forma jurídica del resguardo. ',
         icono: require('@/assets/curso/tema2/img02.svg'),
       },
       {
-        titulo: 'Artículo 64.',
+        titulo: 'Artículo 64',
         texto: 'Derecho a la salud.',
         icono: require('@/assets/curso/tema2/img02.svg'),
       },

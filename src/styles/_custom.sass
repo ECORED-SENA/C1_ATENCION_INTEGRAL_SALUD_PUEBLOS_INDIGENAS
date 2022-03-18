@@ -119,19 +119,19 @@ caption
   background-size: contain
 
 .tema-2.cajon1.cajon-b.color-primario:before 
-    background-color: #E4E5DE;
+    background-color: #E4E5DE !important
     opacity: 1;
 
 .tema-2.cajon2.cajon-b.color-primario:before 
-    background-color: #FEE7C5;
+    background-color: #FEE7C5 !important
     opacity: 1;
 
 .tema-3.cajon1.cajon-b.color-secundario:before 
-  background-color: #FFE8E2;
+  background-color: #FFE8E2 !important
   opacity: 1;
 
 .tema-3.cajon2.cajon-b.color-secundario:before 
-  background-color: #FFE5DD;
+  background-color: #FFE5DD !important
   opacity: 1;
 
 .bg--ligthblue1
@@ -171,6 +171,56 @@ caption
   left: -10px
 
 
+.fondo-especial1
+  position: relative
+  padding-bottom: 1rem
+  .row
+    position: relative
+  &::before
+    
+    content: ""
+    position: absolute
+    top: 0
+    left: 0
+    width: 111%
+    height: 100%
+    margin: 0 -5rem      
+    background-image: url("../assets/curso/tema2/img101.png")
+    background-size: 100% 100%
 
+.fondo-especial2
+  position: relative
+  padding-bottom: 1rem
+  .row
+    position: relative
+  &::before    
+    content: ""
+    position: absolute
+    top: 0
+    left: 0
+    width: 111%
+    height: 100%
+    margin: 0 -5rem      
+    background-image: url("../assets/curso/tema2/img102.png")
+    // background-size: 50% 50%
+    background-repeat: no-repeat
+
+.fondo-especial3
+  position: relative
+  padding-bottom: 1rem
+  .row
+    position: relative
+  &::before    
+    content: ""
+    position: absolute
+    top: 0
+    left: 0
+    width: 111%
+    height: 100%
+    margin: 0 -5rem      
+    background-image: url("../assets/curso/tema2/img103.png")
+    // background-size: 50% 50%
+    background-repeat: no-repeat
+    background-position-y: 50%
 
 

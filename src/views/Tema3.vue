@@ -19,7 +19,7 @@
       .col-lg-7
         .tema-2
           .tema-3.cajon1.cajon-b.color-secundario.p-3.mb-5
-            p.mb-0 Un aspecto esencial y de valor universal es el conocimiento ancestral de los pueblos indígenas sobre el uso de las plantas y de los minerales en estado natural, para su protección en medidas preventivas, en el uso de la medicitradicional y para su seguridad alimentaria; como por ejemplo el uso del achiote utilizado como repelente natural frente las enfermedades transmitidas por vectores, el uso de abrazaderas y adornos en los pies tejidos de bejucos y con pinturas naturales que algunas comunidades como los Nukak Makú han usado para evitar la mordedura por serpientes y arácnidos; el conocimiento sobre las frutas, los vegetales comestibles, la caza y la pesca en su territorio para garantizar su seguridad alimentaria. 
+            p.mb-0 Un aspecto esencial y de valor universal es el conocimiento ancestral de los pueblos indígenas sobre el uso de las plantas y de los minerales en estado natural, para su protección en medidas preventivas, en el uso de la medicina tradicional y para su seguridad alimentaria; como por ejemplo el uso del achiote utilizado como repelente natural frente las enfermedades transmitidas por vectores, el uso de abrazaderas y adornos en los pies tejidos de bejucos y con pinturas naturales que algunas comunidades como los Nukak Makú han usado para evitar la mordedura por serpientes y arácnidos; el conocimiento sobre las frutas, los vegetales comestibles, la caza y la pesca en su territorio para garantizar su seguridad alimentaria. 
 
     p.mb-5 De acuerdo con lo anterior, el territorio encierra todo el pensamiento y la cultura, es allí donde se considera que se ha gestado la existencia y todo lo que implica ser Indígena, desde el momento de origen del mundo y la creación. 
 
@@ -29,18 +29,18 @@
 
     Separador
 
-    #t3_1.titulo-segundo.color-acento-contenido
+    #t_3_1.titulo-segundo.color-acento-contenido
       h2 3.1 Tradiciones
 
     p.mb-5 Los pueblos indígenas tienen sus propias tradiciones, la cual es una manifestación popular, un tanto autónoma, voluntaria y espontánea. Para conocer precisamente sobre este tema, es importante el conocimiento de estas, como se detalla a continuación:
         
     .tema-1
         TabsA.color-acento-botones
-          .tarjeta.color-acento-contenido.p-5(titulo="Cultura médica tradicional." style="background-color: #FFE2D9")
-            h4 Cultura médica tradicional.
+          .tarjeta.color-acento-contenido.p-5(titulo="Cultura médica tradicional" style="background-color: #FFE2D9")
+            h4 Cultura médica tradicional
             p.mb-0 De acuerdo al MSPS, la cultura medica tradicional se puede definir como el conjunto de conocimientos, creencias, valores, actitudes y comportamientos que se acostumbran ancestralmente en nuestras comunidades, para la prevención, el diagnóstico, el tratamiento y la explicación de las enfermedades. (Ministerio de Salud y Protección Social, 1992) En este sentido, se destaca la Resolución 5078 de 1992 en la cual establece que el Ministerio de Salud, promoverá y facilitará el intercambio de conocimientos entre los agentes de las Culturas Médicas Tradicionales, el personal institucional de salud y de los Centros de Educación formal e informal y promoverá la articulación al sistema de prestación servicios de salud de aquellos recursos y las Culturas Médicas Tradicionales y las Terapéuticas alternativas, que en cada región resulten como consecuencia de acuerdos entre las autoridades de salud y los representantes de las comunidades, y además que, las instituciones prestatarias de servicios de salud, podrán vincular profesionales con formación en las culturas Médicas Tradicionales y Terapéuticas alternativas, buscando la complementación de los distintos saberes (Ministerio de Salud y Protección Social, 1992)            
-          .tarjeta.color-acento-contenido.p-5(titulo="Cosmovisión y prácticas ancestrales."  style="background-color: #FFE2D9")
-            h4 Cosmovisión y prácticas ancestrales.
+          .tarjeta.color-acento-contenido.p-5(titulo="Cosmovisión y prácticas ancestrales"  style="background-color: #FFE2D9")
+            h4 Cosmovisión y prácticas ancestrales
             p.mb-5 La cosmovisión se centra en las percepciones, conceptuaciones y valoraciones de los pueblos indígenas, así mismo, las prácticas ancestrales hacen referencia a los conocimientos y prácticas desarrolladas por las comunidades locales a través del tiempo para comprender y manejar sus propios ambientes locales, entre las más utilizadas, se encuentran: 
             .tema-3
               ol.lista-ol--cuadro.mb-0
@@ -91,7 +91,7 @@
 
     Separador
 
-    #t3_2.titulo-segundo.color-acento-contenido
+    #t_3_2.titulo-segundo.color-acento-contenido
       h2 3.2 Salud intercultural en pueblos indígenas
 
     .row.align-items-center.justify-content-center.mb-5.bg--ligthblue1(style="background-color: #E3E3DF")
@@ -122,7 +122,7 @@
 
     Separador
 
-    #t3_3.titulo-segundo.color-acento-contenido
+    #t_3_3.titulo-segundo.color-acento-contenido
       h2 3.3 Análisis de determinantes sociales de salud
     p.mb-5 La población y los pueblos indígenas se desenvuelven en un contexto internacional, nacional, comunitario y familiar, esto nos aproxima a los determinantes que actúan en sus condiciones de vida y estado de salud, a los factores protectores, a los factores de riesgo, al perfil epidemiológico y a las estrategias de abordaje de su salud. Partiendo de lo anterior, en el siguiente video podrá conocer un análisis detallado sobre estos determinantes: 
 
@@ -132,7 +132,7 @@
           iframe(width="1255" height="706" src="https://www.youtube.com/embed/eLNHpY-Vs7k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     Separador
 
-    #t3_4.titulo-segundo.color-acento-contenido
+    #t_3_4.titulo-segundo.color-acento-contenido
       h2 3.4 Medicina tradicional y equipos de salud indígena
 
     p.mb-5 La caracterización de los diferentes grupos poblacionales, la comprensión de los sistemas de creencias y valores que determinan los procesos de mantenimiento y restauración de la salud y el aprovechamiento de los recursos comunitarios, promueve el enfoque intercultural integral de la salud a partir de la armonización de los sistemas de salud tradicionales y el sistema de salud convencional (Organización Panamericana de la Salud, 2006). Por esto, el abordaje de la salud desde un enfoque centrado en la interculturalidad posibilita el reconocimiento de recursos humanos, terapéuticos y estrategias que exceden los paradigmas del sistema de salud convencional, ya que también se generan estrategias de curación prevención, rehabilitación y promoción de la salud, como en el sistema de salud convencional. 

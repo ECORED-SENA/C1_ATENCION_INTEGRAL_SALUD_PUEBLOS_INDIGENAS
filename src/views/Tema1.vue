@@ -30,27 +30,27 @@
         
     div.p-5.mb-5(style="background-color: #F5F3E2")
       .texto-adorno.bg--2.px-5.py-3.mb-5
-        h4.mb-0.me-5 Subcategoría de la cultura:
+        h4.mb-0.me-5 Subcategoría de la cultura
       
       p.mb-5 puede ser definida como un patrón de creencias, pensamientos, valores, prácticas, comunicaciones, comportamientos, cosmovisión e instituciones (familia, instituciones religiosas, económicas y políticas) que son características y sirven para preservar a un grupo social dado. (Organización Panamericana de la Salud, 1997). <b>En el siguiente recurso podrá ahondar sobre este contexto:</b> 
       .tema-1
         TabsA.color-acento-botones.mb-5    
-          .tarjeta.color-acento-contenido.p-5(titulo="Diversidad cultural:")
-            h4 Diversidad cultural:
+          .tarjeta.color-acento-contenido.p-5(titulo="Diversidad cultural")
+            h4 Diversidad cultural
             p.mb-4 Son las diferentes expresiones de las comunidades y colectivos sociales, que se transmiten al interior y al exterior. La diversidad se expresa y enriquece de diferentes maneras en la cultura, en el lenguaje, en el arte y las manifestaciones sociales que se transmiten y se transforman dentro y entre los grupos y las sociedades. La diversidad cultural se manifiesta y enriquece el patrimonio cultural de la humanidad a través de la creación artística, los bailes, las representaciones sociales y los imaginarios colectivos.
             .row
               .col-lg-7
                 figure.mb-0
                   img(src="@/assets/curso/tema1/img03.png")  
-          .tarjeta.color-acento-contenido.p-5(titulo="Supervivencia cultural:")
-            h4 Supervivencia cultural:
+          .tarjeta.color-acento-contenido.p-5(titulo="Supervivencia cultural")
+            h4 Supervivencia cultural
             p.mb-4 Se refiere al derecho a la vida y a los medios para tener una vida digna, de vivir en con libertad, autonomía y en armonía con los demás seres de la naturaleza y otras culturas, sociedades y personas, se relaciona ante todo con el acceso a la seguridad alimentaria, la vivienda y la salud, el trabajo y reproducción humana, supliendo las necesidades vitales de la existencia y tener condiciones de vida digna. Es la manifestación del tener en sentido colectivo, con dignidad en armonía con los demás, sin abuso de la naturaleza, lo referente a lo espiritual, lo cultural y lo material.
             .row
               .col-lg-7
                 figure.mb-0
                   img(src="@/assets/curso/tema1/img50.png") 
-          .tarjeta.color-acento-contenido.p-5(titulo="Identidad cultural:")
-            h4 Identidad cultural:
+          .tarjeta.color-acento-contenido.p-5(titulo="Identidad cultural")
+            h4 Identidad cultural
             p.mb-4 Es la autodefinición como pueblos indígenas poseedores de una historia, unas tradiciones ancestrales; todo esto enfocado en una educación propia y endógena, complementada con la educación intercultural que soportan los conocimientos y saberes del SER indígena como ser dinámico y transformador social.
             .row
               .col-lg-7
@@ -67,11 +67,11 @@
     div.p-5.mb-5(style="background-color: #FFF2EF")
       p.mb-4 Según (Cevallos y Amores, 2009): 
       .texto-adorno.bg--2.px-5.py-3.mb-5
-        h4.mb-0.me-5 Subcategoría de cosmovisión: 
-      p.mb-5 la cual se supone como un conjunto de elementos que determinan la forma que las diferentes culturas tienden de concebir el mundo y su lugar en él. Para el caso de los pueblos indígenas, define las relaciones del individuo con los otros individuos, del individuo con la sociedad, con la naturaleza, con los seres espirituales y se basa en el equilibrio, la armonía y la integralidad. 
+        h4.mb-0.me-5 Subcategoría de cosmovisión
+      p.mb-5 La cual se supone como un conjunto de elementos que determinan la forma que las diferentes culturas tienden de concebir el mundo y su lugar en él. Para el caso de los pueblos indígenas, define las relaciones del individuo con los otros individuos, del individuo con la sociedad, con la naturaleza, con los seres espirituales y se basa en el equilibrio, la armonía y la integralidad. 
     
       h3 Cosmovisión indígena
-      p.mb-5 Visualiza el vídeo de la cosmovisión indígena para que profundices sobre este concepto.
+      p.mb-5 Visualiza el video de la cosmovisión indígena para que profundices sobre este concepto.
 
       figure.mb-5 
         .video          
@@ -81,41 +81,41 @@
     
       .tema-1
         TabsA.color-acento-botones.mb-5    
-          .tarjeta.color-acento-contenido.p-5(titulo="Madre Tierra:")
-            h4 Madre Tierra::
+          .tarjeta.color-acento-contenido.p-5(titulo="Madre Tierra")
+            h4 Madre Tierra
             p.mb-4 para la Cosmovisión Indígena, el concepto de Madre Tierra se considera al medio ambiente como “Toda la Vida”, incluyendo los bosques, praderas, la vida marina, el hábitat, los peces y la biodiversidad, teniendo cada una de ellas un significado simbólico que define la relación de estos Pueblos con la tierra, el territorio, el agua, y demás recursos, ya que constituye la base física, cultural y espiritual de su existencia. En relación con la madre tierra les obliga a conservar el medio ambiente para la supervivencia de las generaciones del presente y el futuro, asumiendo un rol de guardianes con derechos y responsabilidades, que defienden y garantizan la protección, disponibilidad y pureza, por ejemplo, del agua, tal como se establece en la declaración de Kioto de los Pueblos Indígenas sobre el agua del 2003 (CEPAL ORG, 2021).
             .row.align-items-center.justify-content-start
               .col-lg-11
                 figure.mb-0
                   img(src="@/assets/curso/tema1/img06.png")  
-          .tarjeta.color-acento-contenido.p-5(titulo="Territorio y salud: ")
-            h4 Territorio y salud: 
+          .tarjeta.color-acento-contenido.p-5(titulo="Territorio y salud")
+            h4 Territorio y salud
             p.mb-4 El planeta tierra es la Madre (<i>Sikuanis, Uwas, Sáliba,Cuiva, Masiware,, wipiwe, Yamaleros, Chiripos, Amoruas</i>…), es Madre Tierra. El territorio es visto como un libro sagrado donde están escritas las leyes de la vida; cada monte o especie que se destruye es como una página que se arranca del libro, es un mensaje de los dioses que se olvida. (Organización Regional Indígena del Casanare - ORIC, 2006)            
-          .tarjeta.color-acento-contenido.p-5(titulo="Familia:")
-            h4 Familia:
+          .tarjeta.color-acento-contenido.p-5(titulo="Familia")
+            h4 Familia
             p.mb-4 Familia extensiva que involucra todo el clan, en donde familia son todos los del resguardo: abuelos, bisabuelos, nietos, cuñados, yernos, nueras, hermanos, hijas, que cumplen al interior de la comunidad unas normas socioculturales en cada ciclo vital, es decir que cuando se pasa de un ciclo a otro, por ejemplo, de niña a mujer, la persona es sometida a unas pruebas o rituales especiales de preparación que disponen la persona para confrontar el nuevo ciclo de vida. Dentro de un proyecto de vida que Integra al Individuo con el territorio y la espiritualidad. Es el conjunto de personas ascendientes, descendientes, colaterales y afines de un resguardo o clan que cumple al interior unas normas socioculturales.
             .row.align-items-center.justify-content-start
               .col-lg-9
                 figure.mb-0
                   img(src="@/assets/curso/tema1/img07.png")  
-          .tarjeta.color-acento-contenido.p-5(titulo="Salud:")
-            h4 Salud:
+          .tarjeta.color-acento-contenido.p-5(titulo="Salud")
+            h4 Salud
             p.mb-4 Es un concepto holístico, comprende lo individual, lo familiar, lo colectivo, lo espiritual,  la armonía con la madre tierra y los otros seres de la naturaleza y su mundo espiritual, el equilibrio, la reciprocidad, el orden social derivado de la cosmovisión y de la relación con los demás constituyentes de la naturaleza, la importancia vital del territorio y cada uno de sus elementos que son nuestros hermanos y la relación armónica con ellos es necesaria para estar bien en lo Físico-Espiritual-Social.
             .row.align-items-center.justify-content-start
               .col-lg-9
                 figure.mb-0 
                   img(src="@/assets/curso/tema1/img08.png")  
-          .tarjeta.color-acento-contenido.p-5(titulo="Plan de vida:")
-            h4 Plan de vida:
-            p.mb-4 Es ese escenario que nos permite reconocernos como sujetos históricos y sujetos de derechos, fortalece nuestros cimientos de identidad, de sentidos y de pertenencia a un territorio y una cultura. / Un Plan de Vida Indígena es un instrumento de planeación que se construye a partir de un proceso participativo de autodiagnóstico y del ejercicio de elaboración de proyectos. Es un instrumento de política y de gobierno; y como tal, un acuerdo social que debe surgir del consenso. (Portal Territorio Indígena y Gobernanza, 2020).
+          .tarjeta.color-acento-contenido.p-5(titulo="Plan de vida")
+            h4 Plan de vida
+            p.mb-4 Es ese escenario que nos permite reconocernos como sujetos históricos y sujetos de derechos, fortalece nuestros cimientos de identidad, de sentidos y de pertenencia a un territorio y una cultura. Un Plan de Vida Indígena es un instrumento de planeación que se construye a partir de un proceso participativo de autodiagnóstico y del ejercicio de elaboración de proyectos. Es un instrumento de política y de gobierno; y como tal, un acuerdo social que debe surgir del consenso. (Portal Territorio Indígena y Gobernanza, 2020).
             .row.align-items-center.justify-content-start
               .col-lg-9
                 figure.mb-0
                   img(src="@/assets/curso/tema1/img09.png")  
-          .tarjeta.color-acento-contenido.p-5(titulo="Enfermedad:")
-            h4 Enfermedad:
+          .tarjeta.color-acento-contenido.p-5(titulo="Enfermedad")
+            h4 Enfermedad
             p.mb-4 es el desequilibrio, son las alteraciones del cuerpo y del espíritu en una persona, en una comunidad, es la alteración del medio ambiente, es no tener territorio ni agua, es un mal que tenemos en nuestro cuerpo por desobedecer o violar las normas de la comunidad, los usos y costumbres, las recomendaciones, que los caciques o médicos tradicionales hacen (Organización Regional Indígena del Casanare - ORIC, 2006)
-            p.mb-4 La curación concierne al enfermo y a su familia y se utilizan plantas medicinales; se recurre al uso interno de las plantas o a masajes de diferentes tipos, u otras prácticas para tratar de liberar al cuerpo de enfermedades. Restituir el equilibrio perdido y reordenar: la falta que originó la enfermedad y el hábito de Vida.
+            p.mb-4 La curación concierne al enfermo y a su familia y se utilizan plantas medicinales; se recurre al uso interno de las plantas o a masajes de diferentes tipos, u otras prácticas para tratar de liberar al cuerpo de enfermedades. Restituir el equilibrio perdido y reordenar: la falta que originó la enfermedad y el hábito de vida.
             .row.align-items-center.justify-content-start
               .col-lg-9
                 figure.mb-0
@@ -123,31 +123,31 @@
     
     div.p-5.mb-5(style="background-color: #EFEFEF")
       .texto-adorno.bg--2.px-5.py-3.mb-5
-        h4.mb-0.me-5 Subcategoría Relacional: 
+        h4.mb-0.me-5 Subcategoría relacional
       p.mb-5 La última subcategoría que permite conocer la cosmovisión indígena es la relacional, la cual se centra en integrar las diferenciaciones de los pueblos indígenas en su integración con la sociedad en general. Para ello, en el siguiente recurso se encontrarán diferentes definiciones:
       .row.align-items-end.mb-5
         .col-lg-6
           .tema-1-tiempo1
             LineaTiempoD.color-acento-contenido.mb-5   
-              .row.px-0.py-3(numero="1" titulo="Enfoque de derechos y garantías:")                
+              .row.px-0.py-3(numero="1" titulo="Enfoque de derechos y garantías")                
                 .col-lg-12.fondo-linea1
                   div.px-3.py-2
-                    p.mb-4  En el marco de los derechos humanos y los derechos de los pueblos indígenas, establecidos en los tratados internacionales, la Constitución Política Colombiana, como derechos irrenunciables, inherentes a la persona y a los pueblos,  se  promueve el respeto al patrimonio y a diversidad cultural y se garantiza el derecho al territorio, a la autonomía, a la autodeterminación, al autogobierno, a la consulta previa y a las organizaciones propias y a las formas de organización y autoridades indígenas, fomentando la materialización y el goce de los derechos Económicos, Sociales, Económicos, Políticos y Culturales establecidos con reconocimiento de los pueblos indígenas como sujeto colectivo de derechos.
+                    p.mb-4  En el marco de los derechos humanos y los derechos de los pueblos indígenas, establecidos en los tratados internacionales, la Constitución Política Colombiana, como derechos irrenunciables, inherentes a la persona y a los pueblos,  se  promueve el respeto al patrimonio y a diversidad cultural y se garantiza el derecho al territorio, a la autonomía, a la autodeterminación, al autogobierno, a la consulta previa y a las organizaciones propias y a las formas de organización y autoridades indígenas, fomentando la materialización y el goce de los derechos económicos, sociales, políticos y culturales establecidos con reconocimiento de los pueblos indígenas como sujeto colectivo de derechos.
 
-              .row.px-0.py-3(numero="2" titulo="Enfoque diferencial:")                
+              .row.px-0.py-3(numero="2" titulo="Enfoque diferencial")                
                 .col-lg-12.fondo-linea1
                   div.px-3.py-2
                     p.mb-4  Implica el desarrollo de políticas, programas, proyectos, estrategias e intervenciones, en articulación y armonización con la diversidad y con las particularidades territoriales, sociales y culturales de los pueblos indígenas, reconociendo su cosmovisión, sus organizaciones propias, respetando sus prácticas ancestrales, las autoridades indígenas y la medicina tradicional.
               
-              .row.px-0.py-3(numero="3" titulo="Enfoque participativo:")                
+              .row.px-0.py-3(numero="3" titulo="Enfoque participativo")                
                 .col-lg-12.fondo-linea1
                   div.px-3.py-2 Comprende la consulta previa cuando aplique, la concertación, la inclusión y el fomento de la participación de las organizaciones y autoridades indígenas en la planeación, implementación, monitoreo, evaluación y mejoramiento de las normas, los programas, los proyectos que les afecten, en el marco de sus escenarios propios de organización, formas y espacios de concertación para las tomas de decisión, fomentando los escenario y mecanismos de participación, el diálogo colaborativo e intercultural.
 
-              .row.px-0.py-3(numero="4" titulo="Autonomía (étnica):")                
+              .row.px-0.py-3(numero="4" titulo="Autonomía (étnica)")                
                 .col-lg-12.fondo-linea1
                   div.px-3.py-2 Es la decisión que los pueblos indígenas toman de proyectar su futuro libremente, en un documento plan de Vida e incluye el gobierno propio, que contiene las formas de gobernar, las autoridades tradicionales, la jurisdicción indígena, los sistemas de organización social y política según la libre determinación de los pueblos indígenas, los problemas situaciones y proyecciones y se articula con elementos de la identidad cultural.
 
-              .row.px-0.py-3(numero="5" titulo="Acción sin daño:")                
+              .row.px-0.py-3(numero="5" titulo="Acción sin daño")                
                 .col-lg-12.fondo-linea1
                   div.px-3.py-2 Hace referencia a evitar el daño, directo o indirecto, a la integridad cultural, el ambiente, el territorio, como lo plantea el artículo 44 de la ley 4633 de 2011. El enfoque de acción sin daño plantea la importancia de fortalecer las capacidades que tienen todas las sociedades para construir una convivencia armónica y para gestionar las tensiones y las diferencias sin la mediación de la violencia. En la mayoría de las sociedades —incluso en aquellas inmersas en conflictos armados—, las personas tienden a buscar la resolución pacífica de sus conflictos cotidianos, lo que pone de manifiesto que, pese a la guerra, hay elementos que conectan a los miembros de la comunidad, incluso a aquellos que están en orillas opuestas.
         .col-lg-6.px-5
