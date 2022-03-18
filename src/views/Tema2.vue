@@ -378,35 +378,35 @@
 
     .tema-2 
       SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
-        .tarjeta.color-acento-contenido.p-5(style="position: relative; height: 100%")          
+        .tarjeta.color-acento-contenido.alto-100.p-5
             .row.justify-content-center.mb-4
               .col-lg-9
                 figure.mb-0
                   img(src="@/assets/curso/tema2/img24.png")
             h3.text-center Territorios indígenas
             p.mb-0 Áreas poseídas en forma regular y permanente por una comunidad, parcialidad o grupo indígenas y aquellas que, aunque no se encuentren poseídas en esa forma, constituyen el ámbito tradicional de sus actividades sociales, económicas y culturales.
-        .tarjeta.color-acento-contenido.p-5                
+        .tarjeta.color-acento-contenido.alto-100.p-5                
           .row.justify-content-center.mb-4
               .col-lg-9
                 figure.mb-0
                   img(src="@/assets/curso/tema2/img25.png")        
           h3.text-center Comunidad o parcialidad indígena
           p.mb-0 Grupo o conjunto de familias de ascendencia amerindia, que tienen conciencia de identidad y comparten valores, rasgos, usos o costumbres de su cultura, así como formas de gobierno, gestión, control social o sistemas normativos propios que la distinguen de otras comunidades, tengan o no títulos de propiedad, o que no puedan acreditarlos legalmente, o que sus resguardos fueron disueltos, divididos o declarados vacantes.
-        .tarjeta.color-acento-contenido.p-5                        
+        .tarjeta.color-acento-contenido.alto-100.p-5                        
           .row.justify-content-center.mb-4
               .col-lg-9
                 figure.mb-0
                   img(src="@/assets/curso/tema2/img26.png")        
           h3.text-center Reserva indígena
           p.mb-0 Terreno baldío ocupado por una o varias comunidades indígenas que fue delimitado y legalmente asignado por el Incora a aquellas para que ejerzan en él los derechos de uso y usufructo con exclusión de terceros. Las reservas indígenas constituyen tierras comunales de grupos étnicos, para los fines previstos en el artículo 63 de la Constitución Política y la Ley 21 de 1991.
-        .tarjeta.color-acento-contenido.p-5          
+        .tarjeta.color-acento-contenido.alto-100.p-5          
           .row.justify-content-center.mb-4
               .col-lg-9
                 figure.mb-0
                   img(src="@/assets/curso/tema2/img27.png")                      
           h3.text-center Autoridad tradicional
           p.mb-0 Miembros de una comunidad indígena que ejercen, dentro de la estructura propia de la respectiva cultura, un poder de organización, gobierno, gestión o control social.
-        .tarjeta.color-acento-contenido.p-5          
+        .tarjeta.color-acento-contenido.alto-100.p-5          
           .row.justify-content-center.mb-4
               .col-lg-9
                 figure.mb-0
