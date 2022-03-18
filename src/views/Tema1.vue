@@ -81,8 +81,8 @@
     
       .tema-1
         TabsA.color-acento-botones.mb-5    
-          .tarjeta.color-acento-contenido.p-5(titulo="Madre Tierra")
-            h4 Madre Tierra
+          .tarjeta.color-acento-contenido.p-5(titulo="Madre tierra")
+            h4 Madre tierra
             p.mb-4 Para la Cosmovisión Indígena, el concepto de Madre Tierra se considera al medio ambiente como “Toda la Vida”, incluyendo los bosques, praderas, la vida marina, el hábitat, los peces y la biodiversidad, teniendo cada una de ellas un significado simbólico que define la relación de estos Pueblos con la tierra, el territorio, el agua, y demás recursos, ya que constituye la base física, cultural y espiritual de su existencia. En relación con la madre tierra les obliga a conservar el medio ambiente para la supervivencia de las generaciones del presente y el futuro, asumiendo un rol de guardianes con derechos y responsabilidades, que defienden y garantizan la protección, disponibilidad y pureza, por ejemplo, del agua, tal como se establece en la declaración de Kioto de los Pueblos Indígenas sobre el agua del 2003 (CEPAL ORG, 2021).
             .row.align-items-center.justify-content-start
               .col-lg-11
@@ -114,7 +114,7 @@
                   img(src="@/assets/curso/tema1/img09.png")  
           .tarjeta.color-acento-contenido.p-5(titulo="Enfermedad")
             h4 Enfermedad
-            p.mb-4 es el desequilibrio, son las alteraciones del cuerpo y del espíritu en una persona, en una comunidad, es la alteración del medio ambiente, es no tener territorio ni agua, es un mal que tenemos en nuestro cuerpo por desobedecer o violar las normas de la comunidad, los usos y costumbres, las recomendaciones, que los caciques o médicos tradicionales hacen (Organización Regional Indígena del Casanare - ORIC, 2006)
+            p.mb-4 Es el desequilibrio, son las alteraciones del cuerpo y del espíritu en una persona, en una comunidad, es la alteración del medio ambiente, es no tener territorio ni agua, es un mal que tenemos en nuestro cuerpo por desobedecer o violar las normas de la comunidad, los usos y costumbres, las recomendaciones, que los caciques o médicos tradicionales hacen (Organización Regional Indígena del Casanare - ORIC, 2006)
             p.mb-4 La curación concierne al enfermo y a su familia y se utilizan plantas medicinales; se recurre al uso interno de las plantas o a masajes de diferentes tipos, u otras prácticas para tratar de liberar al cuerpo de enfermedades. Restituir el equilibrio perdido y reordenar: la falta que originó la enfermedad y el hábito de vida.
             .row.align-items-center.justify-content-start
               .col-lg-9
@@ -181,7 +181,7 @@
 
               .row.px-0.py-3(numero="5" titulo="Pervivencia y supervivencia")                
                 .col-lg-12.fondo-linea1
-                  div.px-3.py-2 La pervivencia tiene que ver con ser indígena con identidad de un determinado pueblo en su territorio, tiene que ver con el sentido del ser indígena como la diferenciación con el otro. Así mismo, la supervivencia cultura, hace referencia a las condiciones de vida digna, libres y autónomas, en relación con los demás seres de la naturaleza y otras culturas, sociedades y personas “seguir existiendo y vivir con sus formas de vida diferente con dignidad”
+                  div.px-3.py-2 La pervivencia tiene que ver con ser indígena con identidad de un determinado pueblo en su territorio, tiene que ver con el sentido del ser indígena como la diferenciación con el otro. Así mismo, la supervivencia cultura, hace referencia a las condiciones de vida digna, libres y autónomas, en relación con los demás seres de la naturaleza y otras culturas, sociedades y personas “seguir existiendo y vivir con sus formas de vida diferente con dignidad”.
         
           
          
