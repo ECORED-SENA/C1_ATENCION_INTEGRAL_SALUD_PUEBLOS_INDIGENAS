@@ -61,8 +61,8 @@
       p.mb-5 Visualiza el video de supervivencia cultural para que profundices sobre este concepto desde la cosmovisión de los pueblos indígenas.
       
       figure
-        .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        .video          
+          iframe(width="1280" height="720" src="https://www.youtube.com/embed/nzGAXmVYU-U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     div.p-5.mb-5(style="background-color: #FFF2EF")
       p.mb-4 Según (Cevallos y Amores, 2009): 
@@ -74,8 +74,8 @@
       p.mb-5 Visualiza el vídeo de la cosmovisión indígena para que profundices sobre este concepto.
 
       figure.mb-5 
-        .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        .video          
+          iframe(width="1280" height="720" src="https://www.youtube.com/embed/qmfQfPiHylw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
       p.mb-5 Para complementar el tema de cosmovisión indígena, a continuación, se encuentra una subcategoría que permite retomar los diferentes conceptos que lo integran: 
     
@@ -189,8 +189,8 @@
       h4 Pervivencia y supervivencia
       p.mb-5 Visualiza el video sobre pervivencia y supervivencia para conocer el concepto centrado desde la cosmovisión de los pueblos indígenas. 
       figure.mb-0 
-        .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        .video        
+          iframe(width="1280" height="720" src="https://www.youtube.com/embed/N0v92RK-c_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     Separador
 </template>
 
