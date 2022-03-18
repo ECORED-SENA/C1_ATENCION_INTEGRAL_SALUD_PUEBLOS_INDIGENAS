@@ -83,7 +83,7 @@
         TabsA.color-acento-botones.mb-5    
           .tarjeta.color-acento-contenido.p-5(titulo="Madre Tierra")
             h4 Madre Tierra
-            p.mb-4 para la Cosmovisión Indígena, el concepto de Madre Tierra se considera al medio ambiente como “Toda la Vida”, incluyendo los bosques, praderas, la vida marina, el hábitat, los peces y la biodiversidad, teniendo cada una de ellas un significado simbólico que define la relación de estos Pueblos con la tierra, el territorio, el agua, y demás recursos, ya que constituye la base física, cultural y espiritual de su existencia. En relación con la madre tierra les obliga a conservar el medio ambiente para la supervivencia de las generaciones del presente y el futuro, asumiendo un rol de guardianes con derechos y responsabilidades, que defienden y garantizan la protección, disponibilidad y pureza, por ejemplo, del agua, tal como se establece en la declaración de Kioto de los Pueblos Indígenas sobre el agua del 2003 (CEPAL ORG, 2021).
+            p.mb-4 Para la Cosmovisión Indígena, el concepto de Madre Tierra se considera al medio ambiente como “Toda la Vida”, incluyendo los bosques, praderas, la vida marina, el hábitat, los peces y la biodiversidad, teniendo cada una de ellas un significado simbólico que define la relación de estos Pueblos con la tierra, el territorio, el agua, y demás recursos, ya que constituye la base física, cultural y espiritual de su existencia. En relación con la madre tierra les obliga a conservar el medio ambiente para la supervivencia de las generaciones del presente y el futuro, asumiendo un rol de guardianes con derechos y responsabilidades, que defienden y garantizan la protección, disponibilidad y pureza, por ejemplo, del agua, tal como se establece en la declaración de Kioto de los Pueblos Indígenas sobre el agua del 2003 (CEPAL ORG, 2021).
             .row.align-items-center.justify-content-start
               .col-lg-11
                 figure.mb-0
@@ -161,25 +161,25 @@
         .col-lg-6
           .tema-1-tiempo1
             LineaTiempoD.color-acento-contenido.mb-5   
-              .row.px-0.py-3(numero="1" titulo="La interculturalidad:")                
+              .row.px-0.py-3(numero="1" titulo="La interculturalidad")                
                 .col-lg-12.fondo-linea1
                   div.px-3.py-2
                     p.mb-4  Se refiere al diálogo colaborativo, complementario incluyente, igualitario y equitativo con las diversas culturas y visiones del mundo y de la naturaleza, es el respeto mutuo que incluye diálogo de saberes, participación y concertación respetando los modos de ser, de sentir, de hacer y de relacionarnos y comunicarnos entre las diversas culturas. Es la búsqueda de una interacción de suma positiva comprendiéndonos e incluyéndose desde la diversidad  y con respeto al entorno y al territorio.
 
-              .row.px-0.py-3(numero="2" titulo="Etnicidad:")                
+              .row.px-0.py-3(numero="2" titulo="Etnicidad")                
                 .col-lg-12.fondo-linea1
                   div.px-3.py-2
                     p.mb-4 Es el reconocimiento, respeto y garantía de los derechos individuales y colectivos de todos los grupos étnicos existentes en el país, generando en la igualdad de oportunidades desde la diferencia, la diversidad y la no discriminación. Con esto, afirma el DNP, se busca incidir en las políticas públicas y promover una cultura de reconocimiento, respeto e igualdad en el ejercicio de los derechos para todos los grupos que integran la nación pluriétnica y multicultural, y así dimensionar los alcances de su inclusión en la agenda pública y la incidencia en sus procesos comunitarios organizativos (Dirección Nacional de Planeación, 2012).
               
-              .row.px-0.py-3(numero="3" titulo="Etnodesarrollo:")                
+              .row.px-0.py-3(numero="3" titulo="Etnodesarrollo")                
                 .col-lg-12.fondo-linea1
                   div.px-3.py-2 Busca la reivindicación de los pueblos, de su historia, de su patrimonio cultural y propende, en el marco de su autodeterminación por la construcción de su futuro, el desarrollo de su cultura, de sus instituciones, su desarrollo social, mejorando su capacidad para el desarrollo de sus potencialidades, conforme a los aprendizajes y a su historia. Se entiende como el ejercicio de la capacidad social de un pueblo para construir su futuro, aprovechando para ello las enseñanzas de su experiencia histórica y los recursos reales y potenciales de su cultura.          
 
-              .row.px-0.py-3(numero="4" titulo="El indigenismo:")                
+              .row.px-0.py-3(numero="4" titulo="El indigenismo")                
                 .col-lg-12.fondo-linea1
                   div.px-3.py-2 Tiene varias interpretaciones, con un significado polisémico, en un sentido el indigenismo es una corriente de pensamiento que tiene como objeto el estudio de las culturas indígenas en el continente americano, otros teóricos lo proponen como una crítica a la historia de racismo, segregación y exclusión social  a la que han sido sometidos los pueblos originarios, poniendo en riesgo su pervivencia y supervivencia, en especial la de los pueblos indígenas en las Américas, en este sentido se busca una reivindicación de la historia la cultura y los conocimientos ancestrales de estos pueblos.
 
-              .row.px-0.py-3(numero="5" titulo="Pervivencia y supervivencia:")                
+              .row.px-0.py-3(numero="5" titulo="Pervivencia y supervivencia")                
                 .col-lg-12.fondo-linea1
                   div.px-3.py-2 La pervivencia tiene que ver con ser indígena con identidad de un determinado pueblo en su territorio, tiene que ver con el sentido del ser indígena como la diferenciación con el otro. Así mismo, la supervivencia cultura, hace referencia a las condiciones de vida digna, libres y autónomas, en relación con los demás seres de la naturaleza y otras culturas, sociedades y personas “seguir existiendo y vivir con sus formas de vida diferente con dignidad”
         
