@@ -71,35 +71,36 @@
 
     p.mb-5 <b>La declaración de las Naciones Unidas sobre los derechos de pueblos indígenas establece, entre otros, los siguientes derechos (Organización de las Naciones Unidas - ONU, 2007):</b>
 
-    .tema-2
-       PasosA.color-acento-contenido.mb-0(tipo="n")
-        .row
-          .col-lg-12            
-            p.mb-0 Determinación de su condición política para cumplir libremente su desarrollo económico, social y cultural.         
-        .row
-          .col-lg-12            
-            p.mb-0 Derecho a la autonomía o al autogobierno en los relacionado con sus asuntos internos y locales, así como a disponer de medios para financiarlos.
-        .row
-          .col-lg-12            
-            p.mb-0 Conservación de sus instituciones políticas, jurídicas, económicas, sociales y culturales.
-        .row
-          .col-lg-12            
-            p.mb-0 Reparación por medio de mecanismos eficaces, para incluir la restitución, respecto a los bienes culturales, intelectuales, religiosos y espirituales de que hayan sido privados sin su consentimiento, esto, por medio del Estado.
-        .row
-          .col-lg-12            
-            p.mb-0 Establecimiento y control de sus sistemas e instituciones docentes para impartir la educación en sus propios idiomas, en consonancia con sus métodos culturales de enseñanza y aprendizaje.
-        .row
-          .col-lg-12            
-            p.mb-0 Protección a los niños contra la explotación económica y contra todo trabajo que pueda resultar peligroso o interferir en su educación, para esto, el Estado, en consulta y cooperación con los pueblos indígenas, tomarán medidas específicas.
-        .row
-          .col-lg-12            
-            p.mb-0 Protección a sus medicinas tradicionales y a mantener sus prácticas de salud, incluida la conservación de sus plantas medicinales, animales y minerales de interés vital.
-        .row
-          .col-lg-12            
-            p.mb-0 Derecho a poseer, utilizar, desarrollar y controlar las tierras, territorios y recursos que poseen debido a la propiedad tradicional u otro tipo tradicional de ocupación o utilización.
-        .row
-          .col-lg-12            
-            p.mb-0 Derecho a mantener, controlar, proteger y desarrollar su patrimonio cultural, sus conocimientos tradicionales, expresiones culturales tradicionales y las manifestaciones de sus ciencias, tecnologías y culturas, comprendidos los recursos humanos y genéticos, las semillas, las medicinas, el conocimiento de las propiedades de la fauna y la flora, las tradiciones orales, las literaturas, los diseños, los deportes y juegos tradicionales, y las artes visuales e interpretativas.
+    .tema-2.row.justify-content-center
+      .col-lg-10
+        PasosA.color-acento-contenido.mb-0(tipo="n")
+          .row
+            .col-lg-12            
+              p.mb-0 Determinación de su condición política para cumplir libremente su desarrollo económico, social y cultural.         
+          .row
+            .col-lg-12            
+              p.mb-0 Derecho a la autonomía o al autogobierno en los relacionado con sus asuntos internos y locales, así como a disponer de medios para financiarlos.
+          .row
+            .col-lg-12            
+              p.mb-0 Conservación de sus instituciones políticas, jurídicas, económicas, sociales y culturales.
+          .row
+            .col-lg-12            
+              p.mb-0 Reparación por medio de mecanismos eficaces, para incluir la restitución, respecto a los bienes culturales, intelectuales, religiosos y espirituales de que hayan sido privados sin su consentimiento, esto, por medio del Estado.
+          .row
+            .col-lg-12            
+              p.mb-0 Establecimiento y control de sus sistemas e instituciones docentes para impartir la educación en sus propios idiomas, en consonancia con sus métodos culturales de enseñanza y aprendizaje.
+          .row
+            .col-lg-12            
+              p.mb-0 Protección a los niños contra la explotación económica y contra todo trabajo que pueda resultar peligroso o interferir en su educación, para esto, el Estado, en consulta y cooperación con los pueblos indígenas, tomarán medidas específicas.
+          .row
+            .col-lg-12            
+              p.mb-0 Protección a sus medicinas tradicionales y a mantener sus prácticas de salud, incluida la conservación de sus plantas medicinales, animales y minerales de interés vital.
+          .row
+            .col-lg-12            
+              p.mb-0 Derecho a poseer, utilizar, desarrollar y controlar las tierras, territorios y recursos que poseen debido a la propiedad tradicional u otro tipo tradicional de ocupación o utilización.
+          .row
+            .col-lg-12            
+              p.mb-0 Derecho a mantener, controlar, proteger y desarrollar su patrimonio cultural, sus conocimientos tradicionales, expresiones culturales tradicionales y las manifestaciones de sus ciencias, tecnologías y culturas, comprendidos los recursos humanos y genéticos, las semillas, las medicinas, el conocimiento de las propiedades de la fauna y la flora, las tradiciones orales, las literaturas, los diseños, los deportes y juegos tradicionales, y las artes visuales e interpretativas.
     Separador
 
     #t_2_2.titulo-segundo.color-acento-contenido
@@ -250,7 +251,7 @@
                         td Cuidado de la salud
                         td(rowspan=3) SGP
                       tr
-                        td político-organizativo                     
+                        td Político-organizativo                     
                       tr
                         td Administración y gestión                      
                       tr
