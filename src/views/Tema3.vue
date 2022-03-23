@@ -21,11 +21,11 @@
           .tema-3.cajon1.cajon-b.color-secundario.p-3.mb-5
             p.mb-0 Un aspecto esencial y de valor universal es el conocimiento ancestral de los pueblos indígenas sobre el uso de las plantas y de los minerales en estado natural, para su protección en medidas preventivas, en el uso de la medicina tradicional y para su seguridad alimentaria; como por ejemplo el uso del achiote utilizado como repelente natural frente las enfermedades transmitidas por vectores, el uso de abrazaderas y adornos en los pies tejidos de bejucos y con pinturas naturales que algunas comunidades como los Nukak Makú han usado para evitar la mordedura por serpientes y arácnidos; el conocimiento sobre las frutas, los vegetales comestibles, la caza y la pesca en su territorio para garantizar su seguridad alimentaria. 
 
-    p.mb-5 De acuerdo con lo anterior, el territorio encierra todo el pensamiento y la cultura, es allí donde se considera que se ha gestado la existencia y todo lo que implica ser Indígena, desde el momento de origen del mundo y la creación. 
+    p.mb-5 De acuerdo con lo anterior, el territorio encierra todo el pensamiento y la cultura, es allí donde se considera que se ha gestado la existencia y todo lo que implica ser indígena, desde el momento de origen del mundo y la creación. 
 
     .tema-2.mb-5
       .cajon.color-secundario.p-5
-        p.mb-0 Para definir el significado de salud nosotros partimos de la herencia ancestral, desde la cultura y del concepto básico del equilibrio- armonía, el cual implica las relaciones adecuadas de todos los elementos vivos y muertos en la naturaleza del universo. (Encuentro de organización indígena de Casanare, 2006.)
+        p.mb-0 Para definir el significado de salud nosotros partimos de la herencia ancestral, desde la cultura y del concepto básico del equilibrio-armonía, el cual implica las relaciones adecuadas de todos los elementos vivos y muertos en la naturaleza del universo. (Encuentro de organización indígena de Casanare, 2006.)
 
     Separador
 
@@ -38,7 +38,7 @@
         TabsA.color-acento-botones
           .tarjeta.color-acento-contenido.p-5(titulo="Cultura médica tradicional" style="background-color: #FFE2D9")
             h4 Cultura médica tradicional
-            p.mb-0 De acuerdo al MSPS, la cultura medica tradicional se puede definir como el conjunto de conocimientos, creencias, valores, actitudes y comportamientos que se acostumbran ancestralmente en nuestras comunidades, para la prevención, el diagnóstico, el tratamiento y la explicación de las enfermedades. (Ministerio de Salud y Protección Social, 1992) En este sentido, se destaca la Resolución 5078 de 1992 en la cual establece que el Ministerio de Salud, promoverá y facilitará el intercambio de conocimientos entre los agentes de las Culturas Médicas Tradicionales, el personal institucional de salud y de los Centros de Educación formal e informal y promoverá la articulación al sistema de prestación servicios de salud de aquellos recursos y las Culturas Médicas Tradicionales y las Terapéuticas alternativas, que en cada región resulten como consecuencia de acuerdos entre las autoridades de salud y los representantes de las comunidades, y además que, las instituciones prestatarias de servicios de salud, podrán vincular profesionales con formación en las culturas Médicas Tradicionales y Terapéuticas alternativas, buscando la complementación de los distintos saberes (Ministerio de Salud y Protección Social, 1992)            
+            p.mb-0 De acuerdo al MSPS, la cultura médica tradicional se puede definir como el conjunto de conocimientos, creencias, valores, actitudes y comportamientos que se acostumbran ancestralmente en nuestras comunidades, para la prevención, el diagnóstico, el tratamiento y la explicación de las enfermedades. (Ministerio de Salud y Protección Social, 1992). En este sentido, se destaca la Resolución 5078 de 1992 en la cual establece que el Ministerio de Salud, promoverá y facilitará el intercambio de conocimientos entre los agentes de las Culturas Médicas Tradicionales, el personal institucional de salud y de los Centros de Educación formal e informal y promoverá la articulación al sistema de prestación de servicios de salud de aquellos recursos y las Culturas Médicas Tradicionales y las Terapéuticas alternativas, que en cada región resulten como consecuencia de acuerdos entre las autoridades de salud y los representantes de las comunidades, y además que, las instituciones prestatarias de servicios de salud, podrán vincular profesionales con formación en las Culturas Médicas Tradicionales y Terapéuticas alternativas, buscando la complementación de los distintos saberes (Ministerio de Salud y Protección Social, 1992)            
           .tarjeta.color-acento-contenido.p-5(titulo="Cosmovisión y prácticas ancestrales"  style="background-color: #FFE2D9")
             h4 Cosmovisión y prácticas ancestrales
             p.mb-5 La cosmovisión se centra en las percepciones, conceptuaciones y valoraciones de los pueblos indígenas, así mismo, las prácticas ancestrales hacen referencia a los conocimientos y prácticas desarrolladas por las comunidades locales a través del tiempo para comprender y manejar sus propios ambientes locales, entre las más utilizadas, se encuentran: 
@@ -63,7 +63,7 @@
                 li 
                   .lista-ol--cuadro__vineta
                     span.text-white 5
-                  | Cantos6 y bailes.
+                  | Cantos y bailes.
                 li 
                   .lista-ol--cuadro__vineta
                     span.text-white 6
@@ -74,7 +74,7 @@
                   | Chamanismo.
                 li 
                   .lista-ol--cuadro__vineta
-                    spa.text-whiten 8
+                    span.text-white 8
                   | Espiritualidad.
                 li 
                   .lista-ol--cuadro__vineta
@@ -135,7 +135,7 @@
     #t_3_4.titulo-segundo.color-acento-contenido
       h2 3.4 Medicina tradicional y equipos de salud indígena
 
-    p.mb-5 La caracterización de los diferentes grupos poblacionales, la comprensión de los sistemas de creencias y valores que determinan los procesos de mantenimiento y restauración de la salud y el aprovechamiento de los recursos comunitarios, promueve el enfoque intercultural integral de la salud a partir de la armonización de los sistemas de salud tradicionales y el sistema de salud convencional (Organización Panamericana de la Salud, 2006). Por esto, el abordaje de la salud desde un enfoque centrado en la interculturalidad posibilita el reconocimiento de recursos humanos, terapéuticos y estrategias que exceden los paradigmas del sistema de salud convencional, ya que también se generan estrategias de curación prevención, rehabilitación y promoción de la salud, como en el sistema de salud convencional. 
+    p.mb-5 La caracterización de los diferentes grupos poblacionales, la comprensión de los sistemas de creencias y valores que determinan los procesos de mantenimiento y restauración de la salud y el aprovechamiento de los recursos comunitarios, promueve el enfoque intercultural integral de la salud a partir de la armonización de los sistemas de salud tradicionales y el sistema de salud convencional (Organización Panamericana de la Salud, 2006). Por esto, el abordaje de la salud desde un enfoque centrado en la interculturalidad posibilita el reconocimiento de recursos humanos, terapéuticos y estrategias que exceden los paradigmas del sistema de salud convencional, ya que también se generan estrategias de curación, prevención, rehabilitación y promoción de la salud, como en el sistema de salud convencional. 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
@@ -159,7 +159,7 @@
         figure.mb-0
           img(src="@/assets/curso/tema3/img04.png")  
       .col-lg-6
-        p.mb-0 De acuerdo con lo anterior, la medicina tradicional comprende el conjunto de ideas, conceptos, creencias, mitos y procedimientos, sean explicables o no, relativos a las enfermedades físicas, mentales o desequilibrios sociales en un pueblo determinado. En este sentido, se define como el conjunto de conocimientos explica la etiología, la nosología y los procedimientos de diagnóstico, pronóstico, curación y prevención de las enfermedades. 
+        p.mb-0 De acuerdo con lo anterior, la medicina tradicional comprende el conjunto de ideas, conceptos, creencias, mitos y procedimientos, sean explicables o no, relativos a las enfermedades físicas, mentales o desequilibrios sociales en un pueblo determinado. En este sentido, se define como el conjunto de conocimientos que explican la etiología, la nosología y los procedimientos de diagnóstico, pronóstico, curación y prevención de las enfermedades. 
       
     Separador
    

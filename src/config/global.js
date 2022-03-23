@@ -91,7 +91,7 @@ export default {
     subMenu: [
       {
         icono: 'fas fa-sitemap',
-        titulo: 'Sintesis',
+        titulo: 'Síntesis',
         nombreRuta: 'sintesis',
       },
       {
@@ -130,139 +130,187 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA:',
+        'Cabildo Resguardo UWA. (2006). Lineamientos para una educación propia intercultural bilingue UWA. Yopal ',
+    },
+    {
+      referencia:
+        'Corte Constitucional de Colombia. (2009). Auto 004 de 2009. Bogotá D.C: Imprenta Nacional.',
+    },
+    {
+      referencia:
+        'Departamento Administrativo Nacional de Estadística - DANE. (2019). Población Indígena de Colombia - CNPV 2018. Bogotá D.C: Imprenta Nacional.',
+    },
+    {
+      referencia:
+        'Departamento Nacional de Planeación. (2010). Aspectos Básicos Grupo Etnico Indígena. Bogotá D.C: Imprenta Nacional.',
+    },
+    {
+      referencia:
+        'Dirección Nacional de Planeación. (2012). Guía para la incorporación de la variable etnica y el enfoque diferencial en la formulación e implementación de planes y políticas. Bogotá D.C: Imprenta Nacional.',
+    },
+    {
+      referencia:
+        'Gobierno Nacional de Colombia. (1991). Ley 691 de 2001. Bogotá D.C: Imprenta Nacional.',
+    },
+    {
+      referencia:
+        'Gobierno Nacional de Colombia. (2005). Decreto 4127 de 2005. Bogotá D.C: Imprenta Nacional.',
+    },
+    {
+      referencia:
+        'Ministerio de Salud y Protección Social. (1992). Resolución 5078 de 1992. Bogotá D.C: Imprenta Nacional de Colombia.',
+    },
+    {
+      referencia:
+        'Ministerio de Salud y Protección Social. (2006). Perfil de Salud de la Población Indígena y medición de desigualdades en salud. Bogotá D.C: Imprenta nacional.',
+    },
+    {
+      referencia:
+        'Ministerio del Interior de Colombia. (2011). Decreto 4633 de 2011. Bogotá D.C: Imprenta Nacional.',
+    },
+    {
+      referencia:
+        'Ministerio del Interior-Presidencia de la República de Colombia. (2014). Decreto 1953 del 7 octubre de 2014. Bogotá D.C: Imprenta Nacional.',
+    },
+    {
+      referencia:
+        'Organización de las Naciones Unidas - ONU. (2007). Declaración de las Naciones Unidas sobre los derechos de los pueblos indígenas (pág. 19). Ginebra: Naciones Unidas.',
+    },
+    {
+      referencia:
+        'Organización Internacional del Trabajo. (1957). C107 - Convenio sobre poblaciones indígenas y tribales.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://www.ilo.org/dyn/normlex/es/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:C107 ',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA:',
+        'Organización Internacional del Trabajo. (1989). C169 - Convenio sobre pueblos indígenas y tribales, 1989. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'https://www.ilo.org/dyn/normlex/es/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:C169',
     },
     {
       referencia:
-        '<em>Harpersbazaar</em>. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
+        'Organización Panamericana de la Salud. (1997). Organización y provisión de Servicios de Salud en poblaciones Multiculturales. Washington: Organización Panamericana de la Salud.',
     },
     {
       referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'Organización Panamericana de la Salud (1999). Sistemas de salud tradicionales en América Latina y el Caribe: Información Base. Informe técnico. Washington: Organización Panamericana de la Salud, 1999.',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA.',
+        'Organización Panamericana de la Salud. (2006). La salud de los pueblos indígenas de las Américas, conceptos, prácticas y estrategias. Washington D.C: Organización panamericana de la Salud.',
     },
     {
       referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'Organización Regional Indígena del Casanare - ORIC. (2006). Modelo de Atención en Salud para Comunidades Indígenas Casanare. Yopal: Gobernación de Casanare.',
     },
     {
       referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
+        'Osorio, L. L. (2019). Ruamaska: Lineamientos para una política pública en salud indígena. Bogotá D.C: Universidad Nacional de Colombia.',
     },
     {
       referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'Presidencia de la República de Colombia. (1994). Ley 60 de 1994. Bogotá D,C: Imprenta Nacional.',
+    },
+    {
+      referencia:
+        'Presidencia de la República de Colombia. (1995). Decreto 2164 de 1995. Bogotá D.C: Imprenta Nacional.',
+    },
+    {
+      referencia:
+        'Semper, F. (2006). Los derechos de los pueblos indígenas en Colombia en la Jurisprudencia de la corte constitucional. Hamburgo: Sebra.',
+    },
+    {
+      referencia:
+        'Téllez, J. C. (2010). Reconfiguración de la Etnicidad como despliegue de poder antiestatal a partir de las experiencias, no violencia y resistencia indígena en Colombia. Repositorio Universidad Javeriana. https://repository.javeriana.edu.co/bitstream/handle/10554/861/pol141.pdf?sequence=1&isAllowed=y ',
+    },
+    {
+      referencia:
+        'UNESCO. (2005). Convención sobre la Promoción y Protección de la diversidad cultural. Paris: Naciones Unidas.',
+    },
+    {
+      referencia:
+        'Whitehead, M. (1992). The concepts and principles of equity and health. Academic oup.',
+    },
+    {
+      referencia:
+        'Zambrano, C. (1989). Identidad, indios y etnias. Silvia, Cauca: Aluna.',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Adecuación etnocultural',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'Establecimiento de programas de salud con enfoque diferencial, atendiendo las particularidades de cada pueblo indígena.',
     },
     {
-      termino: '<em>Suftware</em>',
+      termino: 'Autonomía',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Es la autodeterminación de los pueblos indígenas para decidir sus propias normas y tomar decisiones en defensa de las tradiciones culturales y organizativas.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Desarrollo armónico',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'Para los fines de este texto, se utiliza la palabra armonización como sinónimo de conciliación, concertación o mediación entre la cosmovisión de los pueblos indígenas y el sistema de salud convencional.',
     },
     {
-      termino: '<em>Áectores</em>',
+      termino: 'Determinantes Sociales en Salud (DSS)',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'Se definen como las condiciones sociales en las que las personas viven y trabajan, así como las características sociales dentro de las cuales la vida tiene lugar. Los dss apuntan a rasgos específicos del contexto social que afecta la salud y los mecanismos por los cuales las condiciones sociales se traducen en impactos en la salud, como, el ingreso, el empleo, la educación, la vivienda y el medio ambiente.',
     },
     {
-      termino: 'Moda',
+      termino: 'Expresiones culturales',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'Las expresiones culturales son las expresiones resultantes de la creatividad de personas, grupos y sociedades, que poseen un contenido cultural. (UNESCO, 2005).',
     },
     {
-      termino: 'Diseña',
+      termino: 'Interculturalidad',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'En el marco de la salud propia indígena es la comunicación recíproca para armonizar los diferentes saberes indígenas y occidentales',
     },
     {
-      termino: 'DIseño',
+      termino: 'Medicina tradicional',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'Comprende el conjunto de ideas, conceptos, creencias, mitos y procedimientos, sean explicables o no, relativos a las enfermedades físicas, mentales o desequilibrios sociales en un pueblo determinado. Estos conjuntos de conocimientos explican la etiología, la nosología y los procedimientos de diagnóstico, pronóstico, curación y prevención de las enfermedades.',
     },
     {
-      termino: 'Tipología',
+      termino: 'Multiculturalismo',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+        'Es la acción de reconocimiento pleno del carácter multilingüe, multiétnico y pluricultural de un país o nación. El multiculturalismo se apoya en valores como la equidad y la justicia, la igualdad con derecho a la diferencia étnica y cultural, y se manifiesta a través del ejercicio de reconocimiento, respeto y promoción de la identidad cultural y lingüística.',
     },
     {
-      termino: 'Bidimensional',
+      termino: 'Régimen subsidiado',
       significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
+        'Es el mecanismo mediante el cual la población más pobre del país, sin capacidad de pago, tiene acceso a los servicios de salud a través de un subsidio que ofrece el Estado.',
     },
     {
-      termino: 'Interés Inferior del menor',
+      termino: 'Sabiduría ancestral',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Es la herencia en conocimiento propio que se transmite de generación en generación para la pervivencia física y cultural de los Pueblos Indígenas.',
     },
     {
-      termino: 'Interseccionalidad',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+      termino: 'Salud propia',
+      significado: 'Armonía y equilibrio de cuerpo, mente y espíritu.',
     },
   ],
   complementario: [
     {
       texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Minsalud (2016). Perfil de Salud de la Población Indígena, y medición de desigualdades en salud.',
+      tipo: 'Guía',
+      descarga: '/downloads/Perfil-salud-pueblos-indigenas-colombia-2016.pdf',
     },
     {
       texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
+        'Defensoría del Pueblo. (2014). Derecho fundamental a la salud de los pueblos indígenas.',
+      tipo: 'Boletín',
+      descarga: '/downloads/boletinNr7Derechoalasaluddelospueblosindigenas.pdf',
     },
     {
       texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
-    },
-    {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: ['/downloads/prueba.pdf', '/downloads/prueba.pdf'],
-    },
-    {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
-      tipo: 'Video',
-      link: ['https://www.google.com/', 'https://www.google.com/'],
+        'Ministerio de Salud y Protección Social. (2016). Guía metodológica para la construcción de Contenidos de los componentes e Implementación del SISPI.',
+      tipo: 'Guía',
+      descarga: '/downloads/guia-metodologica-sispri.pdf',
     },
   ],
   creditos: {
@@ -382,6 +430,16 @@ export default {
       },
     ],
     gestoresRepositorio: [
+      {
+        nombre: 'Andrés Giovanni Machado Cerquera',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
+      },
+      {
+        nombre: 'Daniel Felipe Varon Molina',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
+      },
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',

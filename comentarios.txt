@@ -1,4 +1,1 @@
-
-H34: Se trata de una lista con icono, el cual es un componente de la base. El espacio entre iconos y texto está dado por los parametros por defecto de la base, por favor evaluar la necesidad de cambiar dicho espaciado.
-H35: Se sugiere revisar este caso en particular con fransisco ya que considero que el diseñador se ha salido innecasariamente de los parametros dados por la base respecto a los tamaños de iconos señalados y la curva de las lineas
-H42: Se hacen los ajustes pero se conserva la linea de tiempo tipo E utilizada por el diseñador
+3.1.13: Corresponde a unidad didactica
