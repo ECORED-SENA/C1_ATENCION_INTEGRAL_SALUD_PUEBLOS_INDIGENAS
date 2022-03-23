@@ -10,7 +10,7 @@
             img(src="@/assets/template/emparejamiento.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo.color-acento-contenido
-          h2 Actividad didáctica 1
+          h2 Actividad didáctica
         p.mb-4 Objetivo: conocer las bases conceptuales de los pueblos indígenas.
         .tarjeta.tarjeta--azul.p-3
           .row.justify-content-around.align-items-center            
