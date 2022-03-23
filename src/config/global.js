@@ -222,7 +222,9 @@ export default {
     },
     {
       referencia:
-        'Téllez, J. C. (2010). Reconfiguración de la Etnicidad como despliegue de poder antiestatal a partir de las experiencias, no violencia y resistencia indígena en Colombia. Repositorio Universidad Javeriana. https://repository.javeriana.edu.co/bitstream/handle/10554/861/pol141.pdf?sequence=1&isAllowed=y ',
+        'Téllez, J. C. (2010). Reconfiguración de la Etnicidad como despliegue de poder antiestatal a partir de las experiencias, no violencia y resistencia indígena en Colombia. Repositorio Universidad Javeriana.',
+      link:
+        'https://repository.javeriana.edu.co/bitstream/handle/10554/861/pol141.pdf?sequence=1&isAllowed=y ',
     },
     {
       referencia:
