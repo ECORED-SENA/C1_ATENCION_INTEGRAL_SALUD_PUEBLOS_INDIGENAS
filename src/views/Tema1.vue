@@ -44,7 +44,7 @@
                   img(src="@/assets/curso/tema1/img03.png")  
           .tarjeta.color-acento-contenido.p-5(titulo="Supervivencia cultural")
             h4 Supervivencia cultural
-            p.mb-4 Se refiere al derecho a la vida y a los medios para tener una vida digna, de vivir en con libertad, autonomía y en armonía con los demás seres de la naturaleza y otras culturas, sociedades y personas, se relaciona ante todo con el acceso a la seguridad alimentaria, la vivienda y la salud, el trabajo y reproducción humana, supliendo las necesidades vitales de la existencia y tener condiciones de vida digna. Es la manifestación del tener en sentido colectivo, con dignidad en armonía con los demás, sin abuso de la naturaleza, lo referente a lo espiritual, lo cultural y lo material.
+            p.mb-4 Se refiere a la concepción de “buen vivir” de los pueblos indígenas, en el cual se interrelacionan elementos propios de su pensamiento y prácticas para proporcionar y mantener la armonía y equilibrio, como son el territorio, la identidad cultural, la ley de origen, la sabiduría ancestral y el derecho mayor, entre otros. Así, este concepto se relaciona con el derecho a la vida y a los medios para tener una vida digna, con autonomía, de vivir en libertad, en armonía con los demás seres de la naturaleza y otras culturas, sociedades y personas, se relaciona ante todo con el acceso a la seguridad alimentaria, la vivienda y la salud, el trabajo y reproducción humana, supliendo las necesidades vitales de la existencia y tener condiciones de vida digna. Es la manifestación del tener en sentido colectivo, con dignidad en armonía con los demás, sin abuso de la naturaleza, lo referente a lo espiritual, lo cultural y lo material.
             .row
               .col-lg-7
                 figure.mb-0
@@ -88,9 +88,12 @@
               .col-lg-11
                 figure.mb-0
                   img(src="@/assets/curso/tema1/img06.png")  
-          .tarjeta.color-acento-contenido.p-5(titulo="Territorio y salud")
-            h4 Territorio y salud
-            p.mb-4 El planeta tierra es la Madre (<i>Sikuanis, Uwas, Sáliba,Cuiva, Masiware,, wipiwe, Yamaleros, Chiripos, Amoruas</i>…), es Madre Tierra. El territorio es visto como un libro sagrado donde están escritas las leyes de la vida; cada monte o especie que se destruye es como una página que se arranca del libro, es un mensaje de los dioses que se olvida. (Organización Regional Indígena del Casanare - ORIC, 2006)            
+          .tarjeta.color-acento-contenido.p-5(titulo="Territorio y buen vivir")
+            h4 Territorio y buen vivir (salud)
+            p.mb-4 Para los pueblos indígenas, el territorio se define como el eje central donde se desarrolla la vida. Es el ámbito donde se soporta y reproducen los elementos esenciales del ser indígena (<i>per se</i>) y en el cual está la garantía de pervivencia y supervivencia física, espiritual, material y cultural. Se considera como un espacio físico porque allí se encuentran todos los elementos que posibilitan el desarrollo de la vida, generándose una interrelación entre estos, los seres que allí se encuentran y la naturaleza. También es el espacio cosmogónico porque se genera una interrelación del ser humano con el cosmos, el cual determina el orden social, cultutal  productivo, reproductivo y político de los prueblos indígenas que allí habitan, pero también de aquellos que no siendo indígenas se relacionan y benefician de este y de todos los elementos que en el convergen.
+            p.mb-4 Para los indígenas, particularmente, la ocupación del territorio no persigue fines de carácter mercantilista ni económico, sino una forma de vida de integralidad ser humano-cosmos. Sin embargo, este derecho de carácter ancestral se ve afectado por situaciones de orden público, político administrativo, estrategias de gobierno, intervención extranjera, apertura económica, globalización, entre muchos más factores desequilibrantes. 
+            p.mb-0 La posibilidad de equilibrio entre hombre y naturaleza se logra en la medida que exista la correlación tierra-territorio para los indígenas, para dar aplicabilidad a los principios que establecen ellos de orden mediante lo mítico, lo sagrado, lo espiritual y lo cosmogónico, que es la fuente de la vida. Pero tierra y territorio no pueden confundirse. Tierra no es una parcela de donde se extraiga el sustento, por el contrario, debe ser el elemento de la sostenibilidad en el tiempo. Territorio sí debe ser el espacio vital para desarrollar sus actividades culturales y, ligadas a esta, la economía, la política, lo social y lo sagrado; por ende, no es el bien inmaterial individual sino el bien de propiedad colectiva que, lleno de significados, reivindique sus tradiciones y el legado de sus ancestros, para dar un auténtico valor a su cultura.
+
           .tarjeta.color-acento-contenido.p-5(titulo="Familia")
             h4 Familia
             p.mb-4 Familia extensiva que involucra todo el clan, en donde familia son todos los del resguardo: abuelos, bisabuelos, nietos, cuñados, yernos, nueras, hermanos, hijas, que cumplen al interior de la comunidad unas normas socioculturales en cada ciclo vital, es decir que cuando se pasa de un ciclo a otro, por ejemplo, de niña a mujer, la persona es sometida a unas pruebas o rituales especiales de preparación que disponen la persona para confrontar el nuevo ciclo de vida. Dentro de un proyecto de vida que Integra al Individuo con el territorio y la espiritualidad. Es el conjunto de personas ascendientes, descendientes, colaterales y afines de un resguardo o clan que cumple al interior unas normas socioculturales.
@@ -98,9 +101,12 @@
               .col-lg-9
                 figure.mb-0
                   img(src="@/assets/curso/tema1/img07.png")  
-          .tarjeta.color-acento-contenido.p-5(titulo="Salud")
-            h4 Salud
-            p.mb-4 Es un concepto holístico, comprende lo individual, lo familiar, lo colectivo, lo espiritual,  la armonía con la madre tierra y los otros seres de la naturaleza y su mundo espiritual, el equilibrio, la reciprocidad, el orden social derivado de la cosmovisión y de la relación con los demás constituyentes de la naturaleza, la importancia vital del territorio y cada uno de sus elementos que son nuestros hermanos y la relación armónica con ellos es necesaria para estar bien en lo Físico-Espiritual-Social.
+          .tarjeta.color-acento-contenido.p-5(titulo="Buen vivir")
+            h4 Buen vivir (Salud)
+            p.mb-4 El buen vivir para Fernando Huanacuni es vivir bien, logrando una vida digna, próspera. Es saber vivir en armonía y equilibrio con la madre tierra, con el cosmos y en equilibrio con lo que nos rodea. La lección primero es saber vivir y luego convivir, se puede vivir bien, si el otro vive bien. Por tanto, el buen vivir significa recuperar el sentido colectivo de la vida. (Resolución 050 de 2021, Ministerio de Salud y Protección Social).
+            p.mb-4 Es la armonía y el equilibrio entre el cuerpo, la mente, el espíritu y la naturaleza para el Buen Vivir, y, en este sentido, se manifiesta como bienestar integral que abarca el bienestar biológico, psicológico, social y espiritual del individuo y su comunidad (en condiciones de equidad). 
+            p.mb-4 Implica: la atencion a la desarmonia (enfermedad), el derecho a un territorio sano, con sus propios recursos de alimentación, y por tanto de buena nutrición, el acceso a todos los derechos, las buenas relaciones sociales y familiares y la armonía espiritual. 
+            p.mb-4 Integra y considera el Todo interrelacionado e interdependiente, que tiende hacia la armonía y el equilibrio, donde las relaciones comunitarias, el respeto a la naturaleza y la Ley de Origen son de gran importancia. Fuente: Documento base SISPI
             .row.align-items-center.justify-content-start
               .col-lg-9
                 figure.mb-0 
@@ -112,10 +118,39 @@
               .col-lg-9
                 figure.mb-0
                   img(src="@/assets/curso/tema1/img09.png")  
-          .tarjeta.color-acento-contenido.p-5(titulo="Enfermedad")
-            h4 Enfermedad
-            p.mb-4 Es el desequilibrio, son las alteraciones del cuerpo y del espíritu en una persona, en una comunidad, es la alteración del medio ambiente, es no tener territorio ni agua, es un mal que tenemos en nuestro cuerpo por desobedecer o violar las normas de la comunidad, los usos y costumbres, las recomendaciones, que los caciques o médicos tradicionales hacen (Organización Regional Indígena del Casanare - ORIC, 2006)
-            p.mb-4 La curación concierne al enfermo y a su familia y se utilizan plantas medicinales; se recurre al uso interno de las plantas o a masajes de diferentes tipos, u otras prácticas para tratar de liberar al cuerpo de enfermedades. Restituir el equilibrio perdido y reordenar: la falta que originó la enfermedad y el hábito de vida.
+          .tarjeta.color-acento-contenido.p-5(titulo="Desarmonía")
+            h4 Desarmonía (Enfermedad)
+            p.mb-4 Es el desequilibrio entre cuerpo, mente, espíritu y naturaleza, que ocurre cuando se rompe el equilibrio con todo lo que existe (uno mismo, la familia, la comunidad, el territorio, los elementos de la naturaleza, las fuerzas cósmicas).
+            p.mb-3 Las causas son:
+
+            ul.lista-ul.mb-4
+              li 
+                i.lista-ul__vineta
+                | No reconocer la interdependencia con todos los seres y la naturaleza
+              li 
+                i.lista-ul__vineta
+                | No reconocer la cosmovisión y la cosmogonía
+              li 
+                i.lista-ul__vineta
+                | No respetar la Ley de Origen, el Derecho Mayor y el Derecho Propio
+              li 
+                i.lista-ul__vineta
+                | No cumplir con los principios de vida que culturalmente y por la Ley de Origen han  sido definidos por los creadores
+              li 
+                i.lista-ul__vineta
+                | No respetar la autodeterminación indígena
+              li 
+                i.lista-ul__vineta
+                | No preservar el saber ancestral
+              li 
+                i.lista-ul__vineta
+                | No garantizar la soberanía y la seguridad alimentarias
+              li 
+                i.lista-ul__vineta
+                | No respetan los derechos de la comunidad indígena (no tener garantizados los derechos)
+            
+            p.mb-4 Se manifiesta en diferentes formas: desorden fisiológico (biológico) del cuerpo humano, perturbación de las relaciones con los otros y con la naturaleza, perturbación espiritual, emocional y mental que conlleva a la necesidad de reequilibrarse, lo que pasa por la identificación de lo que está <b>"mal"</b> y el restablecimiento de la unidad y la armonía en el individuo y entre él y el mundo que lo rodea.
+            p.mb-0 La enfermedad también es un proceso de vida y una oportunidad para fortalecer vínculos familiares y comunitarios, para mejorar y para aprender.
             .row.align-items-center.justify-content-start
               .col-lg-9
                 figure.mb-0
@@ -141,7 +176,7 @@
               
               .row.px-0.py-3(numero="3" titulo="Enfoque participativo")                
                 .col-lg-12.fondo-linea1
-                  div.px-3.py-2 Comprende la consulta previa cuando aplique, la concertación, la inclusión y el fomento de la participación de las organizaciones y autoridades indígenas en la planeación, implementación, monitoreo, evaluación y mejoramiento de las normas, los programas, los proyectos que les afecten, en el marco de sus escenarios propios de organización, formas y espacios de concertación para las tomas de decisión, fomentando los escenario y mecanismos de participación, el diálogo colaborativo e intercultural.
+                  div.px-3.py-2 Comprende la consulta previa cuando aplique, la concertación, la inclusión y el fomento de la participación de las organizaciones y autoridades indígenas en la planeación, implementación, monitoreo, evaluación y mejoramiento de las normas, los programas, los proyectos que les afecten, en el marco de sus escenarios propios de organización, formas y espacios de concertación para las tomas de decisión, fomentando los escenarios y mecanismos de participación, el diálogo colaborativo e intercultural.
 
               .row.px-0.py-3(numero="4" titulo="Autonomía (étnica)")                
                 .col-lg-12.fondo-linea1
@@ -169,7 +204,7 @@
               .row.px-0.py-3(numero="2" titulo="Etnicidad")                
                 .col-lg-12.fondo-linea1
                   div.px-3.py-2
-                    p.mb-4 Es el reconocimiento, respeto y garantía de los derechos individuales y colectivos de todos los grupos étnicos existentes en el país, generando en la igualdad de oportunidades desde la diferencia, la diversidad y la no discriminación. Con esto, afirma el DNP, se busca incidir en las políticas públicas y promover una cultura de reconocimiento, respeto e igualdad en el ejercicio de los derechos para todos los grupos que integran la nación pluriétnica y multicultural, y así dimensionar los alcances de su inclusión en la agenda pública y la incidencia en sus procesos comunitarios organizativos (Dirección Nacional de Planeación, 2012).
+                    p.mb-4 Es el reconocimiento, respeto y garantía de los derechos individuales y colectivos de todos los grupos étnicos existentes en el país, <b>generando igualdad</b> de oportunidades desde la diferencia, la diversidad y la no discriminación. Con esto, afirma el DNP, se busca incidir en las políticas públicas y promover una cultura de reconocimiento, respeto e igualdad en el ejercicio de los derechos para todos los grupos que integran la nación pluriétnica y multicultural, y así dimensionar los alcances de su inclusión en la agenda pública y la incidencia en sus procesos comunitarios organizativos (Dirección Nacional de Planeación, 2012).
               
               .row.px-0.py-3(numero="3" titulo="Etnodesarrollo")                
                 .col-lg-12.fondo-linea1

@@ -151,7 +151,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
         p.mb-5 En este sentido, es importante subrayar que en los planes y programas de servicios de salud de los pueblos indígenas se consideran las prácticas indígenas, esto, basado en los criterios de: <b>pluralismo médico, complementariedad terapéutica y complementariedad;</b> lo que implica que los prestadores de servicio de salud deben incluir actividades y procedimientos de medicina tradicional indígena, y para ello, se debe concertar con sus respectivas autoridades.
-        p.mb-5 El Plan de Atención Básica en Salud para pueblos indígenas se caracteriza porque su ejecución es gratuita y es de concertación con las entidades territoriales, orientados a la adecuación etnocultural de las acciones que este incluya. Además, la prestación de los servicios de salud que se ofrece está exenta de cobro de cuotas moderadoras y copagos. Los recursos que sostienen su afiliación al Régimen Subsidiado de Salud son: aportes del Fondo de Solidaridad y Garantías (FOSYGA), pertenecientes a la subcuenta de solidaridad; recursos de los entes territoriales (departamentos, municipios); aportes de los Resguardos Indígenas, quienes como mínimo aportarán el 10%, excepto aquellos que no reciban recursos del Sistema General de Participaciones, o que estos sean insuficientes. 
+        p.mb-5 El Plan de Atención Básica (hoy denominado Plan de Intervenciones Colectivas) en Salud para pueblos indígenas se caracteriza porque su ejecución es gratuita y es de concertación con las entidades territoriales, orientados a la adecuación etnocultural de las acciones que este incluya. Además, la prestación de los servicios de salud que se ofrece está exenta de cobro de cuotas moderadoras y copagos. Los recursos que sostienen su afiliación al Régimen Subsidiado de Salud son: aportes del Fondo de Solidaridad y Garantías (FOSYGA), pertenecientes a la subcuenta de solidaridad; recursos de los entes territoriales (departamentos, municipios); aportes de los Resguardos Indígenas, quienes como mínimo aportarán el 10%, excepto aquellos que no reciban recursos del Sistema General de Participaciones, o que estos sean insuficientes. 
         p.mb-0 Ahora bien, la identificación de la población indígena para la asignación de subsidios se efectuará de conformidad con lo establecido en el artículo 5º de la Ley 691 de 2001. Y de acuerdo con esto, serán las autoridades territoriales las encargadas de verificar y validar con la autoridad tradicional, si la información de la población beneficiaria no es coherente con el listado del censo realizado por el Departamento Administrativo Nacional de Estadística. 
       .col-lg-6.d-flex.align-items-center.p-5
         figure.mb-5
@@ -161,7 +161,7 @@
       .cajon.color-secundario.p-5
         p.mb-0 Se puede resaltar de la ley y la subsecuente jurisprudencia al respecto, que ha permitido que las comunidades indígenas podrán afiliarse al Régimen Subsidiado de manera colectiva y preferencialmente a una ARSI (Administradoras Indígenas de Salud), según lo previsto en el artículo 17 de la Ley 691 de 2001.
     
-    p.mb-5 <b>Adicional a la Ley 691 existen otras reglamentaciones que posibilita que los pueblos indígenas: </b>
+    p.mb-5 <b>Adicional a la Ley 691 existen otras reglamentaciones: </b>
     
     .row.mb-5
         .col-lg-6.d-flex 

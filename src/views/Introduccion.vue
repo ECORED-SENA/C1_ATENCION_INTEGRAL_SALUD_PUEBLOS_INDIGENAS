@@ -9,7 +9,7 @@
           i.fas.fa-info
       h1 Introducción
 
-    h3.mb-5 ¿Sabes sobre la importancia de conocer sobre la cultura indígena, su cosmovisión, la comprensión de su cultura, la concepción de salud y enfermedad?
+    h3.mb-5 ¿Sabes la importancia de conocer sobre los pueblos indígenas, su cosmovisión, la comprensión de su cultura, su concepción de salud y enfermedad?
     .intro
       .cajon-b.color-primario.p-3.mb-5
         p.mb-0 En el siguiente recurso introductorio de este componente podrás reconocer algunos aspectos centrales de los pueblos indígenas, donde habitan y cómo se genera el acceso e inequidad, incluso algunas condiciones indignas y con flagrantes violaciones a sus derechos humanos más fundamentales:

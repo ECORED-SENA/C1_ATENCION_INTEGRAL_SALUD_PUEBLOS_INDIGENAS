@@ -9,7 +9,8 @@
 
     .tema-2
       .cajon-b.color-primario.p-3.mb-5
-        p.mb-0 De acuerdo con la OPS, los pueblos indígenas de las Américas han desarrollado un conjunto de prácticas y conocimientos sobre el cuerpo humano, la convivencia con los demás seres humanos, con la naturaleza y con los seres espirituales, muy complejo y bien estructurado en sus contenidos y en su lógica interna. Continua la OPS, afirmando que la sobrevivencia de los pueblos indígenas se debe a la eficacia de sus sistemas de salud tradicionales, su cosmovisión, se basa en el equilibrio, la armonía y la integralidad… Los sistemas de salud tradicionales indígenas comprende el conjunto de ideas, conceptos, creencias, mitos, ritos y procedimientos, sean explicables o no, relativos a las enfermedades físicas, mentales o desequilibrios sociales en un pueblo determinado. (Organización Panamericana de la Salud, 2006)
+        p.mb-4 De acuerdo con la OPS, los pueblos indígenas de las Américas han desarrollado un conjunto de prácticas y conocimientos sobre el cuerpo humano, la convivencia con los demás seres humanos, con la naturaleza y con los seres espirituales, muy complejo y bien estructurado en sus contenidos y en su lógica interna. Continua la OPS, afirmando que la sobrevivencia de los pueblos indígenas se debe a la eficacia de sus sistemas de salud tradicionales, su cosmovisión, se basa en el equilibrio, la armonía y la integralidad… Los sistemas de salud tradicionales indígenas comprende el conjunto de ideas, conceptos, creencias, mitos, ritos y procedimientos, relativos a las enfermedades físicas, mentales o desequilibrios sociales en un pueblo determinado. (Organización Panamericana de la Salud, 2006)
+        p.mb-0 “Para definir el significado de salud nosotros partimos de la herencia ancestral, desde la cultura y del concepto básico del equilibrio- armonía, el cual implica las relaciones adecuadas de todos los elementos vivos y muertos en la naturaleza del universo”. La salud vista a partir de la cosmovisión indígena implica la armonía de todos estos factores, que son de orden social, físico y espiritual. Parte de buenas relaciones en comunidad, del favor de los espíritus, de la producción, del mantenimiento de las Leyes de origen y de un territorio propio y suficiente. (Raquira, 2019).
 
     
     .row.align-items-center.justify-content-center.mb-5
@@ -97,7 +98,7 @@
     .row.align-items-center.justify-content-center.mb-5.bg--ligthblue1(style="background-color: #E3E3DF")
       .col-lg-6.d-flex.align-items-center
         div 
-          p.mb-4 La salud intercultural en los pueblos indígenas debe partir del respeto por parte de los equipos de salud occidental, a la medicina tradicional, desde el concepto de salud en la cosmovisión indígena, su concepto de enfermedad como un desequilibrio (ni limitado solamente a lo biológico, sino también en su colectivo, en lo espiritual y con el equilibrio con la naturaleza) del respeto por sus autoridades y médicos tradicionales y sobre el conocimiento ancestral en su seguridad alimentaria, en sus prácticas médicas ancestrales, su conocimiento del uso de las plantas y ritos para el mantenimiento y recuperación de la salud individual y colectiva.
+          p.mb-4 La salud intercultural en los pueblos indígenas debe partir del respeto por parte de los equipos de salud occidental, a la medicina tradicional, desde el concepto de salud en la cosmovisión indígena, su concepto de enfermedad como un desequilibrio (no limitado solamente a lo biológico, sino también en su colectivo, en lo espiritual y en equilibrio con la naturaleza) del respeto por sus autoridades y médicos tradicionales y sobre el conocimiento ancestral en su seguridad alimentaria, en sus prácticas médicas ancestrales, su conocimiento del uso de las plantas y ritos para el mantenimiento y recuperación de la salud individual y colectiva.
           p.mb-0 <b>La salud en un enfoque intercultural implica la complementariedad de los saberes, mediante el diálogo de saberes en igualdad de condiciones, incorporar el saber de los médicos tradicionales y complementarnos con ellos en la atención de la salud para las personas y las comunidades.</b>
       .col-lg-6.d-flex.align-items-center.pe-0
         figure.mb-0
@@ -143,7 +144,7 @@
           .bloque-texto-b.color-secundario.p-4
             .bloque-texto-b__texto
               i.fas.fa-quote-left
-              h4.mb-0 Hay enfermedades que no cura el médico y que cura el shapori, hay enfermedades que no cura el shapori y el médico si cura, hay enfermedades que no curan ni el médico, ni el shapori
+              h4.mb-0 Hay enfermedades que no cura el médico y que cura el shapori, hay enfermedades que no cura el shapori y el médico si cura, hay enfermedades que no curan ni el médico, ni el shapori. 
               i.fas.fa-quote-right
       .col-lg-6
         figure.mb-0
@@ -157,9 +158,10 @@
     .row.justify-content-center.align-items-center
       .col-lg-6
         figure.mb-0
-          img(src="@/assets/curso/tema3/img04.png")  
+          img(src="@/assets/curso/tema3/img06.png")  
       .col-lg-6
-        p.mb-0 De acuerdo con lo anterior, la medicina tradicional comprende el conjunto de ideas, conceptos, creencias, mitos y procedimientos, sean explicables o no, relativos a las enfermedades físicas, mentales o desequilibrios sociales en un pueblo determinado. En este sentido, se define como el conjunto de conocimientos que explican la etiología, la nosología y los procedimientos de diagnóstico, pronóstico, curación y prevención de las enfermedades. 
+        p.mb-4 La medicina tradicional es un pilar fundamental para la pervivencia física y cultural de los Pueblos Indígenas, se fundamenta en la cosmovisión, bajo el principio del “Buen Vivir”, este conocimiento permite indicar que el concepto de salud para los Pueblos originarios es el equilibrio físico, mental, espiritual de la persona, la comunidad, la cultura y la naturaleza, es la armonía entre hombre -espíritu, hombre-familia, hombre-grupo social y hombre naturaleza. De esta manera la salud ancestral atiende a un conjunto de conocimientos que se recogen desde el acervo cultural del territorio y la territorialidad armonía y equilibrio; en armonía con los ciclos de la Madre Tierra, del cosmos, de la vida y de la historia, en equilibrio con toda forma de existencia en permanente respeto”.
+        
       
     Separador
    
