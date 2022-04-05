@@ -103,7 +103,7 @@ export default {
       {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
-        titulo: 'Glosario',
+        titulo: 'Glosari
       },
       {
         nombreRuta: 'complementario',
