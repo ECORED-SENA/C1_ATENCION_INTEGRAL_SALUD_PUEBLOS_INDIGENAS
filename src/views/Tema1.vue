@@ -74,8 +74,8 @@
       p.mb-5 Visualiza el video de la cosmovisión indígena para que profundices sobre este concepto.
 
       figure.mb-5 
-        .video          
-          iframe(width="1280" height="720" src="https://www.youtube.com/embed/qmfQfPiHylw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        .video                  
+          iframe(width="1255" height="706" src="https://www.youtube.com/embed/eAwe2NUqook" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
       p.mb-5 Para complementar el tema de cosmovisión indígena, a continuación, se encuentra una subcategoría que permite retomar los diferentes conceptos que lo integran: 
     
