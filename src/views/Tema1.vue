@@ -28,7 +28,7 @@
             p.mb-4 Los derechos de los pueblos indígenas, en el marco de los derechos humanos, se han dado de manera progresiva desde las organizaciones internacionales y se han ido reconociendo en los distintos países, hasta estar establecido y definido en la constitución política de Colombia y el marco normativo vigente en la materia. La excusión y la opresión política y cultural a la que se han sometidos los pueblos indígenas continúa en nuestro país en medio de las tensiones que se generan entre los estados nación y la búsqueda de la autonomía y la libre determinación de estas comunidades, más aún agravadas en nuestro país por el conflicto interno, la desigualdad y las inequidades. La exclusión no solamente se da en el marco político, ideológico y de derechos, existen aún muchos prejuicios y segregación de tipo cultural y social, se requiere un enfoque intercultural incluyente y respeto a la autonomía, tradiciones y cosmovisión de las comunidades indígenas.
             p.mb-0 <b>De acuerdo con el contexto anterior, a continuación, podrá conocer el marco conceptual desde la perspectiva de los pueblos indígenas a partir de tres subcategorías:</b>
         
-    div.p-5.mb-5(style="background-color: #F5F3E2")
+    div.p-5.mb-0(style="background-color: #F5F3E2")
       .texto-adorno.bg--2.px-5.py-3.mb-5
         h4.mb-0.me-5 Subcategoría de la cultura
       
@@ -60,11 +60,11 @@
       h4 Supervivencia cultural
       p.mb-5 Visualiza el video de supervivencia cultural para que profundices sobre este concepto desde la cosmovisión de los pueblos indígenas.
       
-      figure
+      figure.border
         .video          
           iframe(width="1280" height="720" src="https://www.youtube.com/embed/nzGAXmVYU-U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
-    div.p-5.mb-5(style="background-color: #FFF2EF")
+    div.p-5.pt-0.mb-0(style="background-color: #FFF2EF")
       p.mb-4 Según (Cevallos y Amores, 2009): 
       .texto-adorno.bg--2.px-5.py-3.mb-5
         h4.mb-0.me-5 Subcategoría de cosmovisión
@@ -80,7 +80,7 @@
       p.mb-5 Para complementar el tema de cosmovisión indígena, a continuación, se encuentra una subcategoría que permite retomar los diferentes conceptos que lo integran: 
     
       .tema-1
-        TabsA.color-acento-botones.mb-5    
+        TabsA.color-acento-botones.mb-0    
           .tarjeta.color-acento-contenido.p-5(titulo="Madre tierra")
             h4 Madre tierra
             p.mb-4 Para la Cosmovisión Indígena, el concepto de Madre Tierra se considera al medio ambiente como “Toda la Vida”, incluyendo los bosques, praderas, la vida marina, el hábitat, los peces y la biodiversidad, teniendo cada una de ellas un significado simbólico que define la relación de estos Pueblos con la tierra, el territorio, el agua, y demás recursos, ya que constituye la base física, cultural y espiritual de su existencia. En relación con la madre tierra les obliga a conservar el medio ambiente para la supervivencia de las generaciones del presente y el futuro, asumiendo un rol de guardianes con derechos y responsabilidades, que defienden y garantizan la protección, disponibilidad y pureza, por ejemplo, del agua, tal como se establece en la declaración de Kioto de los Pueblos Indígenas sobre el agua del 2003 (CEPAL ORG, 2021).
@@ -156,6 +156,12 @@
                 figure.mb-0
                   img(src="@/assets/curso/tema1/img10.png")  
     
+    .row.align-items-center.justify-content-center.mb-5
+      .col-lg-11
+        figure 
+          .video                  
+            iframe(width="1255" height="706" src="https://www.youtube.com/embed/IOgywm40w-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                    
     div.p-5.mb-5(style="background-color: #EFEFEF")
       .texto-adorno.bg--2.px-5.py-3.mb-5
         h4.mb-0.me-5 Subcategoría relacional
