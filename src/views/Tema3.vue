@@ -144,12 +144,12 @@
           .bloque-texto-b.color-secundario.p-4
             .bloque-texto-b__texto
               i.fas.fa-quote-left
-              h4.mb-0 Hay enfermedades que no cura el médico y que cura el shapori, hay enfermedades que no cura el shapori y el médico si cura, hay enfermedades que no curan ni el médico, ni el shapori. 
+              h4.mb-0 Hay enfermedades que no cura el médico y que cura el shapori, hay enfermedades que no cura el shapori y el médico si cura, hay enfermedades que no curan ni el médico, ni el shapori. (OPS, 2006).
               i.fas.fa-quote-right
       .col-lg-6
         figure.mb-0
           img(src="@/assets/curso/tema3/img03.png")  
-
+s
     .tema-2.mb-5
       .cajon.color-acento-contenido.p-5
         p.mb-0 El espacio de la enfermedad no es el espacio del shamán, es apenas una parte de su espacio que incluye la relación con el cosmos, con el orden natural y social de su comunidad (Organización Panamericana de la Salud, 2006)
