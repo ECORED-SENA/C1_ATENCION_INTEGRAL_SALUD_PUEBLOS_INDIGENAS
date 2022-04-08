@@ -105,7 +105,7 @@
             h4 Buen vivir (Salud)
             p.mb-4 El buen vivir para Fernando Huanacuni es vivir bien, logrando una vida digna, próspera. Es saber vivir en armonía y equilibrio con la madre tierra, con el cosmos y en equilibrio con lo que nos rodea. La lección primero es saber vivir y luego convivir, se puede vivir bien, si el otro vive bien. Por tanto, el buen vivir significa recuperar el sentido colectivo de la vida. (Resolución 050 de 2021, Ministerio de Salud y Protección Social).
             p.mb-4 Es la armonía y el equilibrio entre el cuerpo, la mente, el espíritu y la naturaleza para el Buen Vivir, y, en este sentido, se manifiesta como bienestar integral que abarca el bienestar biológico, psicológico, social y espiritual del individuo y su comunidad (en condiciones de equidad). 
-            p.mb-4 Implica: la atencion a la desarmonia (enfermedad), el derecho a un territorio sano, con sus propios recursos de alimentación, y por tanto de buena nutrición, el acceso a todos los derechos, las buenas relaciones sociales y familiares y la armonía espiritual. 
+            p.mb-4 Implica: la atención a la desarmonía (enfermedad), el derecho a un territorio sano, con sus propios recursos de alimentación, y por tanto de buena nutrición, el acceso a todos los derechos, las buenas relaciones sociales y familiares y la armonía espiritual. 
             p.mb-4 Integra y considera el Todo interrelacionado e interdependiente, que tiende hacia la armonía y el equilibrio, donde las relaciones comunitarias, el respeto a la naturaleza y la Ley de Origen son de gran importancia. Fuente: Documento base SISPI
             .row.align-items-center.justify-content-start
               .col-lg-9
